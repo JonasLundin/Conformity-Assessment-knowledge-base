@@ -1,5 +1,8 @@
 # Jurisdictions
 
-National authorities, implementing measures and status per jurisdiction.
+Each Member State's notifying authorities and national accreditation body, with the sector designations that matter for cybersecurity and AI.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Structure
+
+- [EU Member States](eu-member-states/index.md): One page per Member State.
+- [EEA EFTA States](eea/index.md): Iceland, Liechtenstein and Norway.

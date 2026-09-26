@@ -1,5 +1,8 @@
 # Standards
 
-Standards and specifications referenced by the instrument, as identifiers, lifecycle facts and links.
+The ISO/CASCO toolbox and its European adoptions, recorded as identifiers, scope and links.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Structure
+
+- [ISO/CASCO standards](iso-casco/index.md): ISO/IEC 17000, 17011, 17020, 17021-1, 17024, 17025, 17029, 17065, 17067.
+- [European adoptions](european/index.md): EN ISO/IEC versions and EA application documents.

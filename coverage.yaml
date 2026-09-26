@@ -7,8 +7,18 @@ total_concepts: 0
 by_category: {}
 by_type: {}
 gates:
-  law_articles:
-    pattern: 'law/*/articles/article-*'
-    expected: null
+  modules:
+    pattern: modules/module-*
+    expected: 16
+    actual: 0
+    status: pending
+  eu_member_states:
+    pattern: jurisdictions/eu-member-states/*
+    expected: 27
+    actual: 0
+    status: pending
+  eea_states:
+    pattern: jurisdictions/eea/*
+    expected: 3
     actual: 0
     status: pending

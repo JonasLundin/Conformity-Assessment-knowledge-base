@@ -1,5 +1,7 @@
 # Law
 
-Primary legal instruments, article by article, with annexes, secondary legislation and interacting law.
+Horizontal instruments of the New Legislative Framework and the sector laws that build on them.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Structure
+
+- [European Union](eu/index.md): European Union instruments and their interaction pages.

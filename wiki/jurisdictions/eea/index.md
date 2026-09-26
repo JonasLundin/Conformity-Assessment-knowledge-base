@@ -1,5 +1,5 @@
-# Obligations
+# EEA EFTA States
 
-Role and lifecycle views of what the instrument requires.
+Iceland, Liechtenstein and Norway.
 
 No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.

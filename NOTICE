@@ -2,7 +2,7 @@
 
 ## Primary Sources
 
-Concepts cite legislation, rules, and official material published by public institutions and standards bodies. This bundle supplies condensed summaries, source attribution, links, and an indication that the material was changed. Each source keeps its own reuse terms; the sections below name the terms that apply to the source families this bundle covers.
+Concepts cite legislation, rules, specifications, and official material published by public institutions, programmes, and standards bodies. This bundle supplies condensed summaries, source attribution, links, and an indication that the material was changed. Each source keeps its own reuse terms; the sections below name the terms that apply to the source families this bundle covers.
 
 ### European Union Material
 
@@ -13,10 +13,14 @@ Unless a source states otherwise, reuse of EUR-Lex legal documents and European 
 
 Only the electronic Official Journal on EUR-Lex is authentic and produces legal effects.
 
+### European Accreditation And Notified Body Coordination Documents
+
+Documents of the European co-operation for Accreditation (EA), national accreditation bodies and notified-body coordination groups remain subject to their publishers' terms. They are referenced by identifier, version and link. Notification status is taken from the Commission's NANDO database and cited as such.
+
 ## Standards
 
 ISO, IEC, CEN, CENELEC, ETSI, and national standards remain subject to their publishers' rights. This repository records identifiers, lifecycle facts, public scope information, relationships, and links. It does not license or redistribute normative standards text, tables, figures, draft files, or comment spreadsheets.
 
 ## Trademarks And Independence
 
-Names and marks belong to their respective owners. No institutional logos are included. This independent project is not affiliated with or endorsed by any of the institutions, authorities, programmes, or standards bodies whose material it cites, nor by Google Cloud or Meerkat.
+Names and marks belong to their respective owners. No institutional logos are included. This independent project is not affiliated with or endorsed by the European Commission, ENISA, the European co-operation for Accreditation, any national accreditation body or notifying authority, any notified body, ISO, IEC, CEN, CENELEC, Google Cloud, or Meerkat.
