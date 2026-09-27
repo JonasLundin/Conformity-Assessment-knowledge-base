@@ -58,8 +58,8 @@ EUCC establishes a harmonized, Union-wide certification framework for ICT produc
 - **Interoperability with CRA**: EUCC certificates at assurance level 'substantial' or 'high' confer a direct presumption of conformity for products with digital elements under Article 27 of the Cyber Resilience Act.
 
 # Related concepts
-- [ISO/IEC 17065 Standard](../standards/iso-iec-17065.md)
-- [ISO/IEC 17025 Standard](../standards/iso-iec-17025.md)
-- [Certificate Issuance Procedure](../procedures/certificate-issuance.md)
-- [Cybersecurity Act Regulation](../law/regulation-eu-2019-881.md)
+- [ISO/IEC 17065 Standard](../../standards/iso-casco/iso-iec-17065.md)
+- [ISO/IEC 17025 Standard](../../standards/iso-casco/iso-iec-17025.md)
+- [Certificate Issuance Procedure](../../procedures/assessment-and-certificates/certificate-issuance.md)
+- [Cybersecurity Act Regulation](../../law/eu/horizontal/regulation-eu-2019-881.md)
 [^csa-regulation]: European Parliament and Council, Cybersecurity Act, http://data.europa.eu/eli/reg/2019/881/oj

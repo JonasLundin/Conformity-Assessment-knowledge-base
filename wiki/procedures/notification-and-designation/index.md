@@ -2,4 +2,6 @@
 
 Notifying authorities, application, assessment, NANDO listing, monitoring, restriction, suspension and withdrawal, subsidiaries and subcontracting.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Notification Procedure](notification-procedure.md) — Procedure by which a notifying authority informs the Commission and Member States of a designated notified body via NANDO.

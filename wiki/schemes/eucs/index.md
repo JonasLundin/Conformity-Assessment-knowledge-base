@@ -2,4 +2,6 @@
 
 The cloud services scheme, status and drafts.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [European Cybersecurity Certification Scheme for Cloud Services (EUCS)](eucs-scheme.md) — Draft European cybersecurity certification scheme for cloud services developed under the Cybersecurity Act.

@@ -77,8 +77,8 @@ A legally binding document drawn up by the manufacturer stating that the fulfill
 
 # Related concepts
 - [Regulation (EC) No 765/2008](regulation-ec-765-2008.md)
-- [Module A: Internal Production Control](../modules/module-a.md)
-- [Module B: EU-Type Examination](../modules/module-b.md)
-- [Module H: Full Quality Assurance](../modules/module-h.md)
+- [Module A: Internal Production Control](../../../modules/module-a.md)
+- [Module B: EU-Type Examination](../../../modules/module-b.md)
+- [Module H: Full Quality Assurance](../../../modules/module-h.md)
 
 [^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj

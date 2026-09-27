@@ -2,4 +2,8 @@
 
 Application, evaluation, certificate issue and validity, changes to the approved type, surveillance, refusal and appeal, information duties, cross-border coordination groups.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Certificate Issuance and Management](certificate-issuance.md) — Rules governing the issuance, modification, restriction, suspension, and withdrawal of conformity certificates.
+- [Periodic Surveillance Audit](surveillance-audit.md) — On-site assessment conducted periodically by notified bodies to ensure continuing conformity of approved quality systems.
+- [EU-Type Examination Procedure](type-examination.md) — Operational procedure under Module B whereby a notified body assesses and certifies the technical design of a product.

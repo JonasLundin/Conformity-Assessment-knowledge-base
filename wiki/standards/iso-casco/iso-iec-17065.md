@@ -62,6 +62,6 @@ In European product conformity assessment under the New Legislative Framework (N
 # Related concepts
 - [ISO/IEC 17025 (Testing Laboratories)](iso-iec-17025.md)
 - [ISO/IEC 17021-1 (Management Systems Certification)](iso-iec-17021-1.md)
-- [EUCC Cybersecurity Scheme](../schemes/eucc.md)
-- [Notified Body Role](../roles/notified-body.md)
+- [EUCC Cybersecurity Scheme](../../schemes/eucc/eucc-scheme.md)
+- [Notified Body Role](../../glossary/notified-body.md)
 [^iso-iec-17065]: International Organization for Standardization (ISO) / IEC, ISO/IEC 17065:2012 Conformity assessment — Requirements for bodies certifying products, processes and services, https://www.iso.org/standard/46568.html

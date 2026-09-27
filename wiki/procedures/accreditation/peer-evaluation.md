@@ -1,13 +1,13 @@
 ---
 type: Procedure
-title: Periodic Surveillance Audit
-description: On-site assessment conducted periodically by notified bodies to ensure
-  continuing conformity of approved quality systems.
+title: Peer Evaluation of Accreditation Bodies
+description: Mutual evaluation system operated by EA under Article 10 of Regulation
+  (EC) 765/2008 to ensure equivalence of accreditation.
 category: procedure
 tags:
 - procedure
 - nlf
-- surveillance-audit
+- peer-evaluation
 status: draft
 generated:
   by: agent:antigravity
@@ -29,22 +29,22 @@ x-conformity-assessment:
   jurisdiction: EU
   authority_level: guidance
   instrument_status: in_force
-  provision: Decision 768/2008/EC Annex II Module D/H
+  provision: Regulation (EC) 765/2008 Art 10
   checked_at: '2026-09-27T00:00:00Z'
 ---
 
 # Summary
 
-**Periodic Surveillance Audit** under European product conformity assessment legislation[^decision-768-2008-ec][^regulation-ec-765-2008].
+**Peer Evaluation of Accreditation Bodies** under European product conformity assessment legislation[^decision-768-2008-ec][^regulation-ec-765-2008].
 
-On-site assessment conducted periodically by notified bodies to ensure continuing conformity of approved quality systems.
+Mutual evaluation system operated by EA under Article 10 of Regulation (EC) 765/2008 to ensure equivalence of accreditation.
 
 # Procedural Steps
 Step-by-step requirements for competent bodies and economic operators.
 
 # Related concepts
 - [Procedures Index](index.md)
-- [Blue Guide 2022](../guidance/blue-guide-2022.md)
+- [Blue Guide 2022](../../guidance/european-commission/blue-guide-2022.md)
 
 [^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
 [^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj

@@ -2,4 +2,6 @@
 
 Sector coordination-group recommendations and FAQs.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Coordination Groups of Notified Bodies (CNB)](coordination-of-notified-bodies.md) — Sectoral groups established under EU product legislation ensuring consistent application of conformity assessment procedures across notified bodies.

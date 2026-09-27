@@ -49,7 +49,7 @@ National accreditation body operating in accordance with Regulation (EC) No 765/
 
 # Related concepts
 - [EEA States Index](index.md)
-- [Regulation (EC) No 765/2008](../../law/regulation-ec-765-2008.md)
+- [Regulation (EC) No 765/2008](../../law/eu/horizontal/regulation-ec-765-2008.md)
 
 [^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj
 [^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj

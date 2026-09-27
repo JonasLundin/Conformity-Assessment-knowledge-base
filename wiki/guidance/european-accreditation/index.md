@@ -2,4 +2,6 @@
 
 EA mandatory and informative documents.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [EA-2/17 EA Document on Accreditation for Notification Purposes](ea-2-17-document.md) — European co-operation for Accreditation policy document defining criteria for National Accreditation Bodies assessing conformity assessment bodies for notification.

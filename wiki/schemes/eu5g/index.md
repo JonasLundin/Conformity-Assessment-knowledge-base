@@ -2,4 +2,6 @@
 
 The 5G scheme, status and drafts.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [European Cybersecurity Certification Scheme for 5G (EU5G)](eu5g-scheme.md) — Candidate European cybersecurity certification scheme for 5G wireless networks under development by ENISA.

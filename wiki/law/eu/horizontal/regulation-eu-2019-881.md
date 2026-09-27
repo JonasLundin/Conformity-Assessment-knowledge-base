@@ -71,8 +71,8 @@ The CSA creates voluntary and mandatory European certification schemes that repl
 - **ENISA Rolling Work Programme (Article 47)**: Identifies strategic priority ICT domains requiring European certification schemes (e.g. EUCC, EUCS cloud scheme, EU5G).
 
 # Related concepts
-- [European Cybersecurity Certification Scheme (EUCC)](../schemes/eucc.md)
-- [ISO/IEC 17065: Product Certification Bodies](../standards/iso-iec-17065.md)
+- [European Cybersecurity Certification Scheme (EUCC)](../../../schemes/eucc/eucc-scheme.md)
+- [ISO/IEC 17065: Product Certification Bodies](../../../standards/iso-casco/iso-iec-17065.md)
 - [Cyber Resilience Act Interplay](decision-768-2008-ec.md)
 
 [^regulation-eu-2019-881]: European Parliament and Council of the European Union, Regulation (EU) 2019/881 on ENISA and on information and communications technology cybersecurity certification (Cybersecurity Act), https://eur-lex.europa.eu/eli/reg/2019/881/oj

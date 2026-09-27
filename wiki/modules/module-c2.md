@@ -58,7 +58,7 @@ Used across New Legislative Framework directives and regulations, including CRA 
 
 # Related concepts
 - [Modules Index](index.md)
-- [Decision 768/2008/EC](../law/decision-768-2008-ec.md)
+- [Decision 768/2008/EC](../law/eu/horizontal/decision-768-2008-ec.md)
 
 [^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
 [^blue-guide-2022]: European Commission, Commission Notice — The 'Blue Guide' on the implementation of EU product rules 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG

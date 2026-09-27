@@ -39,6 +39,6 @@ Establishes Union-wide cybersecurity certification mechanisms for ICT products, 
 
 # Related concepts
 - [Schemes Index](index.md)
-- [Cybersecurity Act (Regulation (EU) 2019/881)](../law/regulation-eu-2019-881.md)
+- [Cybersecurity Act (Regulation (EU) 2019/881)](../../law/eu/horizontal/regulation-eu-2019-881.md)
 
 [^regulation-eu-2019-881]: European Parliament and Council of the European Union, Regulation (EU) 2019/881 (Cybersecurity Act), http://data.europa.eu/eli/reg/2019/881/oj

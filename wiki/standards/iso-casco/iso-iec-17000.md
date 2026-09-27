@@ -75,6 +75,6 @@ Every conformity assessment activity—whether internal self-declaration (Module
 # Related concepts
 - [ISO/IEC 17025: Testing Laboratories](iso-iec-17025.md)
 - [ISO/IEC 17065: Product Certification Bodies](iso-iec-17065.md)
-- [Decision No 768/2008/EC Modules](../law/decision-768-2008-ec.md)
+- [Decision No 768/2008/EC Modules](../../law/eu/horizontal/decision-768-2008-ec.md)
 
 [^iso-iec-17000]: International Organization for Standardization (ISO) / IEC, ISO/IEC 17000:2020 Conformity assessment — Vocabulary and general principles, https://www.iso.org/standard/73029.html

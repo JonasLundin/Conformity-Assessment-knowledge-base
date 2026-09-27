@@ -45,10 +45,10 @@ sources:
     - jurisdictions/eu-member-states/slovenia
     - jurisdictions/eu-member-states/spain
     - jurisdictions/eu-member-states/sweden
-    - law/decision-768-2008-ec
-    - law/regulation-ec-765-2008
-    - law/regulation-eu-2019-1020
-    - law/regulation-eu-2019-881
+    - law/eu/horizontal/decision-768-2008-ec
+    - law/eu/horizontal/regulation-ec-765-2008
+    - law/eu/horizontal/regulation-eu-2019-1020
+    - law/eu/horizontal/regulation-eu-2019-881
     - modules/module-a
     - modules/module-a1
     - modules/module-a2
@@ -65,12 +65,12 @@ sources:
     - modules/module-g
     - modules/module-h
     - modules/module-h1
-    - procedures/accreditation
-    - procedures/certificate-issuance
-    - procedures/notification
-    - procedures/peer-evaluation
-    - procedures/surveillance-audit
-    - procedures/type-examination
+    - procedures/accreditation/accreditation-process
+    - procedures/assessment-and-certificates/certificate-issuance
+    - procedures/notification-and-designation/notification-procedure
+    - procedures/accreditation/peer-evaluation
+    - procedures/assessment-and-certificates/surveillance-audit
+    - procedures/assessment-and-certificates/type-examination
     - roles/authorised-representative
     - roles/conformity-assessment-body
     - roles/distributor
@@ -128,13 +128,13 @@ sources:
     - jurisdictions/eu-member-states/slovenia
     - jurisdictions/eu-member-states/spain
     - jurisdictions/eu-member-states/sweden
-    - law/regulation-ec-765-2008
-    - procedures/accreditation
-    - procedures/certificate-issuance
-    - procedures/notification
-    - procedures/peer-evaluation
-    - procedures/surveillance-audit
-    - procedures/type-examination
+    - law/eu/horizontal/regulation-ec-765-2008
+    - procedures/accreditation/accreditation-process
+    - procedures/assessment-and-certificates/certificate-issuance
+    - procedures/notification-and-designation/notification-procedure
+    - procedures/accreditation/peer-evaluation
+    - procedures/assessment-and-certificates/surveillance-audit
+    - procedures/assessment-and-certificates/type-examination
     - roles/authorised-representative
     - roles/conformity-assessment-body
     - roles/distributor
@@ -145,11 +145,11 @@ sources:
     - roles/national-accreditation-body
     - roles/notified-body
     - roles/notifying-authority
-    - standards/iso-iec-17000
-    - standards/iso-iec-17020
-    - standards/iso-iec-17021-1
-    - standards/iso-iec-17025
-    - standards/iso-iec-17065
+    - standards/iso-casco/iso-iec-17000
+    - standards/iso-casco/iso-iec-17020
+    - standards/iso-casco/iso-iec-17021-1
+    - standards/iso-casco/iso-iec-17025
+    - standards/iso-casco/iso-iec-17065
     - timeline/eucc-adoption-2024
     - timeline/market-surveillance-reg-2019
     - timeline/nlf-adoption-2008
@@ -161,7 +161,7 @@ sources:
     author: European Commission
     last_modified: '2022-06-29T00:00:00Z'
     used_by:
-    - guidance/blue-guide-2022
+    - guidance/european-commission/blue-guide-2022
     - modules/module-a
     - modules/module-a1
     - modules/module-a2
@@ -212,7 +212,7 @@ sources:
     - jurisdictions/eu-member-states/slovenia
     - jurisdictions/eu-member-states/spain
     - jurisdictions/eu-member-states/sweden
-    - law/regulation-eu-2019-1020
+    - law/eu/horizontal/regulation-eu-2019-1020
   regulation-eu-2019-881:
     id: regulation-eu-2019-881
     resource: http://data.europa.eu/eli/reg/2019/881/oj
@@ -220,10 +220,10 @@ sources:
     author: European Parliament and Council of the European Union
     last_modified: '2019-04-17T00:00:00Z'
     used_by:
-    - law/regulation-eu-2019-881
-    - schemes/eu5g
-    - schemes/eucc
-    - schemes/eucs
+    - law/eu/horizontal/regulation-eu-2019-881
+    - schemes/eu5g/eu5g-scheme
+    - schemes/eucc/eucc-scheme
+    - schemes/eucs/eucs-scheme
   iso-casco-toolbox:
     id: iso-casco-toolbox
     resource: https://www.iso.org/casco.html
@@ -231,8 +231,8 @@ sources:
     author: International Organization for Standardization (ISO)
     last_modified: '2020-01-01T00:00:00Z'
     used_by:
-    - standards/iso-iec-17000
-    - standards/iso-iec-17020
-    - standards/iso-iec-17021-1
-    - standards/iso-iec-17025
-    - standards/iso-iec-17065
+    - standards/iso-casco/iso-iec-17000
+    - standards/iso-casco/iso-iec-17020
+    - standards/iso-casco/iso-iec-17021-1
+    - standards/iso-casco/iso-iec-17025
+    - standards/iso-casco/iso-iec-17065

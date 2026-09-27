@@ -1,13 +1,13 @@
 ---
 type: Procedure
-title: Notification Procedure
-description: Procedure by which a notifying authority informs the Commission and Member
-  States of a designated notified body via NANDO.
+title: Accreditation Procedure
+description: Formal attestation by a national accreditation body that a conformity
+  assessment body meets harmonised standard requirements.
 category: procedure
 tags:
 - procedure
 - nlf
-- notification
+- accreditation
 status: draft
 generated:
   by: agent:antigravity
@@ -29,22 +29,22 @@ x-conformity-assessment:
   jurisdiction: EU
   authority_level: guidance
   instrument_status: in_force
-  provision: Decision 768/2008/EC Annex I Art R22
+  provision: Regulation (EC) 765/2008 Chapter II
   checked_at: '2026-09-27T00:00:00Z'
 ---
 
 # Summary
 
-**Notification Procedure** under European product conformity assessment legislation[^decision-768-2008-ec][^regulation-ec-765-2008].
+**Accreditation Procedure** under European product conformity assessment legislation[^decision-768-2008-ec][^regulation-ec-765-2008].
 
-Procedure by which a notifying authority informs the Commission and Member States of a designated notified body via NANDO.
+Formal attestation by a national accreditation body that a conformity assessment body meets harmonised standard requirements.
 
 # Procedural Steps
 Step-by-step requirements for competent bodies and economic operators.
 
 # Related concepts
 - [Procedures Index](index.md)
-- [Blue Guide 2022](../guidance/blue-guide-2022.md)
+- [Blue Guide 2022](../../guidance/european-commission/blue-guide-2022.md)
 
 [^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
 [^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj

@@ -76,6 +76,6 @@ Under Module A, the manufacturer independently verifies, ensures, and declares t
 - [Modules Index](index.md)
 - [Module A1: Internal Production Control plus Supervised Testing](module-a1.md)
 - [Module B: EU-Type Examination](module-b.md)
-- [Decision 768/2008/EC](../law/decision-768-2008-ec.md)
+- [Decision 768/2008/EC](../law/eu/horizontal/decision-768-2008-ec.md)
 [^decision-768-2008-ec]: European Parliament and Council, Decision No 768/2008/EC, https://eur-lex.europa.eu/eli/dec/2008/768/oj
 [^blue-guide-2022]: European Commission, Blue Guide 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG

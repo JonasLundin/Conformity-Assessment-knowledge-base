@@ -2,4 +2,6 @@
 
 The Blue Guide 2022, notices, NANDO documentation.
 
-No concepts yet. Pages added here follow the concept shape described in the repository's CONTRIBUTING.md.
+## Concepts
+
+- [Commission Notice — The 'Blue Guide' 2022](blue-guide-2022.md) — Comprehensive European Commission guidance on the implementation of EU product rules under the New Legislative Framework.

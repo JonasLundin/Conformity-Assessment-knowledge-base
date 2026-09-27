@@ -3,18 +3,18 @@ release: 0.1.0
 baseline: '2026-09-27'
 coverage_status: complete
 review_status: unverified
-total_concepts: 84
+total_concepts: 90
 by_category:
-  glossary: 6
-  guidance: 1
-  jurisdiction: 30
-  law: 4
-  module: 16
-  procedure: 6
   role: 10
-  scheme: 3
-  standard: 5
+  glossary: 6
+  module: 16
   timeline: 3
+  standard: 6
+  jurisdiction: 30
+  law: 5
+  guidance: 4
+  scheme: 3
+  procedure: 7
 by_type:
   Glossary: 6
   Guidance: 1

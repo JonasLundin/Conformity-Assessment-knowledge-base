@@ -45,7 +45,7 @@ Detailed roles and obligations governed by the New Legislative Framework and sec
 
 # Related concepts
 - [Roles Index](index.md)
-- [Decision 768/2008/EC](../law/decision-768-2008-ec.md)
+- [Decision 768/2008/EC](../law/eu/horizontal/decision-768-2008-ec.md)
 
 [^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
 [^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj

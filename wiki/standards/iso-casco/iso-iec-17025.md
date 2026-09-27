@@ -44,6 +44,6 @@ In cybersecurity conformity assessment, accreditation to ISO/IEC 17025 is mandat
 
 # Related concepts
 - [ISO/IEC 17065 (Product Certification Bodies)](iso-iec-17065.md)
-- [EUCC Scheme](../schemes/eucc.md)
-- [Type Examination Procedure](../procedures/type-examination.md)
+- [EUCC Scheme](../../schemes/eucc/eucc-scheme.md)
+- [Type Examination Procedure](../../procedures/assessment-and-certificates/type-examination.md)
 [^iso-iec-17025]: International Organization for Standardization (ISO) / IEC, ISO/IEC 17025:2017 General requirements for the competence of testing and calibration laboratories, https://www.iso.org/standard/66912.html

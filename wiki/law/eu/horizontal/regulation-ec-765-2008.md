@@ -71,7 +71,7 @@ Article 30 establishes the horizontal legal principles of the CE marking:
 
 # Related concepts
 - [Decision No 768/2008/EC](decision-768-2008-ec.md)
-- [ISO/IEC 17065: Product Certification Bodies](../standards/iso-iec-17065.md)
-- [ISO/IEC 17025: Testing Laboratories](../standards/iso-iec-17025.md)
+- [ISO/IEC 17065: Product Certification Bodies](../../../standards/iso-casco/iso-iec-17065.md)
+- [ISO/IEC 17025: Testing Laboratories](../../../standards/iso-casco/iso-iec-17025.md)
 
 [^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj
