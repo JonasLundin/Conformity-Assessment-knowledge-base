@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Guidance
 title: ENISA Candidate Scheme Development Methodology
 description: Guidelines and operating manual governing how ENISA prepares, consults
   on, and maintains candidate cybersecurity certification schemes.

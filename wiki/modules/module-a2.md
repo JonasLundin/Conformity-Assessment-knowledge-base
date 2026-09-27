@@ -2,63 +2,43 @@
 type: Module
 title: 'Module A2: Internal Production Control plus Supervised Product Checks at Random
   Intervals'
-description: Internal production control combined with product checks at random intervals
-  carried out by a notified body.
+description: 'Decision 768/2008/EC Annex II Module A2: internal control supplemented
+  by product checks carried out at random intervals by a notified body.'
 category: module
 tags:
-- nlf
+- conformity-assessment
+- decision-768-2008-ec
 - module
 - module-a2
-- decision-768-2008-ec
 status: draft
 generated:
-  by: agent:antigravity
+  by: manual-curation
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
 - id: decision-768-2008-ec
-  resource: https://eur-lex.europa.eu/eli/dec/2008/768/oj
+  resource: http://data.europa.eu/eli/dec/2008/768/oj
   title: Decision No 768/2008/EC on a common framework for the marketing of products
   author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
-- id: blue-guide-2022
-  resource: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
-  title: "Commission Notice \u2014 The 'Blue Guide' on the implementation of EU product\
-    \ rules 2022"
-  author: European Commission
-  last_modified: '2022-06-29T00:00:00Z'
+  last_modified: '2008-08-13T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
   authority_level: binding
-  instrument_status: in_force
-  provision: Annex II, Module A2
   checked_at: '2026-09-27T00:00:00Z'
+  provision: Annex II Module A2
 ---
 
 # Summary
 
-**Module A2: Internal Production Control plus Supervised Product Checks at Random Intervals** under Annex II of Decision No 768/2008/EC[^decision-768-2008-ec].
+**Module A2 (Internal production control plus supervised product checks at random intervals)** supplements Module A with random checks on finished products carried out by a notified body[^decision-768-2008-ec].
 
-Internal production control combined with product checks at random intervals carried out by a notified body.
-
-# Structure and Obligations
-
-A notified body chosen by the manufacturer carries out product checks or has them carried out at random intervals determined by the body, to verify the quality of the internal checks on the product.
-
-### Manufacturer obligations
-- Draw up technical documentation.
-- Ensure manufacturing process maintains conformity.
-- Affix CE marking and draw up EU declaration of conformity.
-
-### Notified body role
-- Independent third-party assessment where specified by the module.
-
-# Sector Usage
-Used across New Legislative Framework directives and regulations, including CRA Regulation (EU) 2024/2847, AI Act Regulation (EU) 2024/1689, Machinery Regulation (EU) 2023/1230, and RED Directive 2014/53/EU.
+# Normative Procedure (Annex II Module A2)
+- An accredited in-house body or a notified body chosen by the manufacturer carries out product checks at random intervals determined by the body.
+- An adequate sample of final products is examined and appropriate tests are carried out to verify conformity.
+- The notified body's identification number is affixed under its responsibility.
 
 # Related concepts
-- [Modules Index](index.md)
-- [Decision 768/2008/EC](../law/eu/horizontal/decision-768-2008-ec.md)
+- [Module A](module-a.md)
+- [Module C2](module-c2.md)
 
-[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
-[^blue-guide-2022]: European Commission, Commission Notice — The 'Blue Guide' on the implementation of EU product rules 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
+[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, http://data.europa.eu/eli/dec/2008/768/oj

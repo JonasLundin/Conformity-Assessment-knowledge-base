@@ -1,55 +1,48 @@
 ---
 type: Jurisdiction
-title: Conformity Assessment Structure in Liechtenstein
-description: Notifying authorities, national accreditation body, and conformity assessment
-  designation in Liechtenstein under the EEA Agreement.
+title: Liechtenstein
+description: Conformity assessment and accreditation infrastructure in Liechtenstein.
 category: jurisdiction
 tags:
+- conformity-assessment
+- eea
 - jurisdiction
-- eea-state
 - liechtenstein
-- accreditation
-- notification
 status: draft
 generated:
-  by: agent:antigravity
+  by: manual-curation
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
 - id: regulation-ec-765-2008
-  resource: https://eur-lex.europa.eu/eli/reg/2008/765/oj
+  resource: http://data.europa.eu/eli/reg/2008/765/oj
   title: Regulation (EC) No 765/2008 setting out the requirements for accreditation
-    and market surveillance
+    and market surveillance relating to the marketing of products
   author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
-- id: decision-768-2008-ec
-  resource: https://eur-lex.europa.eu/eli/dec/2008/768/oj
-  title: Decision No 768/2008/EC on a common framework for the marketing of products
-  author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
+  last_modified: '2008-08-13T00:00:00Z'
+- id: nando-information-system
+  resource: https://ec.europa.eu/growth/tools-databases/nando/
+  title: NANDO (New Approach Notified and Designated Organisations) Information System
+  author: European Commission
+  last_modified: '2026-01-01T00:00:00Z'
 x-conformity-assessment:
-  jurisdiction: EU
-  authority_level: guidance
-  instrument_status: in_force
-  provision: 'EEA State: Liechtenstein'
+  jurisdiction: LI
+  authority_level: binding
   checked_at: '2026-09-27T00:00:00Z'
 ---
 
 # Summary
 
-Conformity assessment, accreditation, and notification arrangements in **Liechtenstein** under the EEA Agreement and Regulation (EC) No 765/2008[^regulation-ec-765-2008].
+In **Liechtenstein**, conformity assessment operates within the European Economic Area (EEA) agreement framework, applying Regulation (EC) No 765/2008[^regulation-ec-765-2008].
 
-# National Authorities
-
-## Notifying Authority
-Designated national authority responsible for notification of conformity assessment bodies to the EFTA Surveillance Authority and the European Commission.
-
-## National Accreditation Body
-National accreditation body operating in accordance with Regulation (EC) No 765/2008 and participating in European co-operation for Accreditation (EA).
+# Accreditation and Notification Architecture
+- **National Accreditation Body**: **Liechtenstein Accreditation (cooperation with SAS / DAkkS)** operates under Article 4 of Regulation (EC) No 765/2008.
+- **Notifying Authority**: **Amt für Volkswirtschaft (AVW)** designates and monitors notified bodies listed in NANDO[^nando-information-system].
+- **EEA Scope**: Cross-border accreditation recognition in the EEA.
 
 # Related concepts
-- [EEA States Index](index.md)
-- [Regulation (EC) No 765/2008](../../law/eu/horizontal/regulation-ec-765-2008.md)
+- [EEA Jurisdictions Index](index.md)
+- [Accreditation Process](../../procedures/accreditation/accreditation-process.md)
 
-[^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj
-[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
+[^regulation-ec-765-2008]: European Parliament and Council, Regulation (EC) No 765/2008, http://data.europa.eu/eli/reg/2008/765/oj
+[^nando-information-system]: European Commission, NANDO Information System, https://ec.europa.eu/growth/tools-databases/nando/

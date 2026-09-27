@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Procedure
 title: Presumption of Conformity through Harmonised Standards
 description: Legal effect conferred by compliance with European harmonised standards
   published in the Official Journal under Regulation (EU) 1025/2012.

@@ -1,13 +1,10 @@
-version: 1
-checked_at: '2026-09-27T00:00:00Z'
-total_sources: 6
+total_sources: 21
 sources:
   decision-768-2008-ec:
-    id: decision-768-2008-ec
-    resource: https://eur-lex.europa.eu/eli/dec/2008/768/oj
     title: Decision No 768/2008/EC on a common framework for the marketing of products
+    resource: http://data.europa.eu/eli/dec/2008/768/oj
     author: European Parliament and Council of the European Union
-    last_modified: '2008-07-09T00:00:00Z'
+    last_modified: '2008-08-13T00:00:00Z'
     used_by:
     - glossary/accreditation
     - glossary/ce-marking
@@ -15,40 +12,10 @@ sources:
     - glossary/notified-body
     - glossary/presumption-of-conformity
     - glossary/technical-documentation
-    - jurisdictions/eea/iceland
-    - jurisdictions/eea/liechtenstein
-    - jurisdictions/eea/norway
-    - jurisdictions/eu-member-states/austria
-    - jurisdictions/eu-member-states/belgium
-    - jurisdictions/eu-member-states/bulgaria
-    - jurisdictions/eu-member-states/croatia
-    - jurisdictions/eu-member-states/cyprus
-    - jurisdictions/eu-member-states/czechia
-    - jurisdictions/eu-member-states/denmark
-    - jurisdictions/eu-member-states/estonia
-    - jurisdictions/eu-member-states/finland
-    - jurisdictions/eu-member-states/france
-    - jurisdictions/eu-member-states/germany
-    - jurisdictions/eu-member-states/greece
-    - jurisdictions/eu-member-states/hungary
-    - jurisdictions/eu-member-states/ireland
-    - jurisdictions/eu-member-states/italy
-    - jurisdictions/eu-member-states/latvia
-    - jurisdictions/eu-member-states/lithuania
-    - jurisdictions/eu-member-states/luxembourg
-    - jurisdictions/eu-member-states/malta
-    - jurisdictions/eu-member-states/netherlands
-    - jurisdictions/eu-member-states/poland
-    - jurisdictions/eu-member-states/portugal
-    - jurisdictions/eu-member-states/romania
-    - jurisdictions/eu-member-states/slovakia
-    - jurisdictions/eu-member-states/slovenia
-    - jurisdictions/eu-member-states/spain
-    - jurisdictions/eu-member-states/sweden
+    - guidance/enisa/enisa-candidate-scheme-methodology
+    - guidance/european-accreditation/ea-2-17-document
+    - guidance/notified-body-groups/coordination-of-notified-bodies
     - law/eu/horizontal/decision-768-2008-ec
-    - law/eu/horizontal/regulation-ec-765-2008
-    - law/eu/horizontal/regulation-eu-2019-1020
-    - law/eu/horizontal/regulation-eu-2019-881
     - modules/module-a
     - modules/module-a1
     - modules/module-a2
@@ -66,14 +33,20 @@ sources:
     - modules/module-h
     - modules/module-h1
     - procedures/accreditation/accreditation-process
-    - procedures/assessment-and-certificates/certificate-issuance
-    - procedures/notification-and-designation/notification-procedure
+    - procedures/accreditation/article-11-presumption
     - procedures/accreditation/peer-evaluation
+    - procedures/assessment-and-certificates/certificate-issuance
     - procedures/assessment-and-certificates/surveillance-audit
     - procedures/assessment-and-certificates/type-examination
+    - procedures/notification-and-designation/monitoring-and-withdrawal
+    - procedures/notification-and-designation/nando-listing
+    - procedures/notification-and-designation/notification-procedure
+    - procedures/notification-and-designation/subsidiaries-and-subcontracting
+    - procedures/presumption-of-conformity/harmonised-standards-presumption
     - roles/authorised-representative
     - roles/conformity-assessment-body
     - roles/distributor
+    - roles/european-commission
     - roles/european-cooperation-for-accreditation
     - roles/importer
     - roles/manufacturer
@@ -81,23 +54,20 @@ sources:
     - roles/national-accreditation-body
     - roles/notified-body
     - roles/notifying-authority
+    - standards/european/cen-cenelec-guide-25
     - timeline/eucc-adoption-2024
     - timeline/market-surveillance-reg-2019
     - timeline/nlf-adoption-2008
   regulation-ec-765-2008:
-    id: regulation-ec-765-2008
-    resource: https://eur-lex.europa.eu/eli/reg/2008/765/oj
     title: Regulation (EC) No 765/2008 setting out the requirements for accreditation
-      and market surveillance
+      and market surveillance relating to the marketing of products
+    resource: http://data.europa.eu/eli/reg/2008/765/oj
     author: European Parliament and Council of the European Union
-    last_modified: '2008-07-09T00:00:00Z'
+    last_modified: '2008-08-13T00:00:00Z'
     used_by:
     - glossary/accreditation
     - glossary/ce-marking
     - glossary/conformity-assessment
-    - glossary/notified-body
-    - glossary/presumption-of-conformity
-    - glossary/technical-documentation
     - jurisdictions/eea/iceland
     - jurisdictions/eea/liechtenstein
     - jurisdictions/eea/norway
@@ -130,11 +100,15 @@ sources:
     - jurisdictions/eu-member-states/sweden
     - law/eu/horizontal/regulation-ec-765-2008
     - procedures/accreditation/accreditation-process
-    - procedures/assessment-and-certificates/certificate-issuance
-    - procedures/notification-and-designation/notification-procedure
+    - procedures/accreditation/article-11-presumption
     - procedures/accreditation/peer-evaluation
+    - procedures/assessment-and-certificates/certificate-issuance
     - procedures/assessment-and-certificates/surveillance-audit
     - procedures/assessment-and-certificates/type-examination
+    - procedures/notification-and-designation/monitoring-and-withdrawal
+    - procedures/notification-and-designation/nando-listing
+    - procedures/notification-and-designation/notification-procedure
+    - procedures/notification-and-designation/subsidiaries-and-subcontracting
     - roles/authorised-representative
     - roles/conformity-assessment-body
     - roles/distributor
@@ -145,94 +119,188 @@ sources:
     - roles/national-accreditation-body
     - roles/notified-body
     - roles/notifying-authority
-    - standards/iso-casco/iso-iec-17000
-    - standards/iso-casco/iso-iec-17020
-    - standards/iso-casco/iso-iec-17021-1
-    - standards/iso-casco/iso-iec-17025
-    - standards/iso-casco/iso-iec-17065
     - timeline/eucc-adoption-2024
     - timeline/market-surveillance-reg-2019
     - timeline/nlf-adoption-2008
-  blue-guide-2022:
-    id: blue-guide-2022
-    resource: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
-    title: "Commission Notice \u2014 The 'Blue Guide' on the implementation of EU\
-      \ product rules 2022"
-    author: European Commission
-    last_modified: '2022-06-29T00:00:00Z'
-    used_by:
-    - guidance/european-commission/blue-guide-2022
-    - modules/module-a
-    - modules/module-a1
-    - modules/module-a2
-    - modules/module-b
-    - modules/module-c
-    - modules/module-c1
-    - modules/module-c2
-    - modules/module-d
-    - modules/module-d1
-    - modules/module-e
-    - modules/module-e1
-    - modules/module-f
-    - modules/module-f1
-    - modules/module-g
-    - modules/module-h
-    - modules/module-h1
   regulation-eu-2019-1020:
-    id: regulation-eu-2019-1020
-    resource: http://data.europa.eu/eli/reg/2019/1020/oj
     title: Regulation (EU) 2019/1020 on market surveillance and compliance of products
+    resource: http://data.europa.eu/eli/reg/2019/1020/oj
     author: European Parliament and Council of the European Union
-    last_modified: '2019-06-20T00:00:00Z'
+    last_modified: '2019-06-25T00:00:00Z'
     used_by:
-    - jurisdictions/eu-member-states/austria
-    - jurisdictions/eu-member-states/belgium
-    - jurisdictions/eu-member-states/bulgaria
-    - jurisdictions/eu-member-states/croatia
-    - jurisdictions/eu-member-states/cyprus
-    - jurisdictions/eu-member-states/czechia
-    - jurisdictions/eu-member-states/denmark
-    - jurisdictions/eu-member-states/estonia
-    - jurisdictions/eu-member-states/finland
-    - jurisdictions/eu-member-states/france
-    - jurisdictions/eu-member-states/germany
-    - jurisdictions/eu-member-states/greece
-    - jurisdictions/eu-member-states/hungary
-    - jurisdictions/eu-member-states/ireland
-    - jurisdictions/eu-member-states/italy
-    - jurisdictions/eu-member-states/latvia
-    - jurisdictions/eu-member-states/lithuania
-    - jurisdictions/eu-member-states/luxembourg
-    - jurisdictions/eu-member-states/malta
-    - jurisdictions/eu-member-states/netherlands
-    - jurisdictions/eu-member-states/poland
-    - jurisdictions/eu-member-states/portugal
-    - jurisdictions/eu-member-states/romania
-    - jurisdictions/eu-member-states/slovakia
-    - jurisdictions/eu-member-states/slovenia
-    - jurisdictions/eu-member-states/spain
-    - jurisdictions/eu-member-states/sweden
     - law/eu/horizontal/regulation-eu-2019-1020
-  regulation-eu-2019-881:
-    id: regulation-eu-2019-881
-    resource: http://data.europa.eu/eli/reg/2019/881/oj
-    title: Regulation (EU) 2019/881 (Cybersecurity Act)
+  regulation-eu-1025-2012:
+    title: Regulation (EU) No 1025/2012 on European standardisation
+    resource: http://data.europa.eu/eli/reg/2012/1025/oj
     author: European Parliament and Council of the European Union
-    last_modified: '2019-04-17T00:00:00Z'
+    last_modified: '2012-11-14T00:00:00Z'
+    used_by:
+    - law/eu/horizontal/regulation-eu-1025-2012
+  regulation-eu-2019-881:
+    title: Regulation (EU) 2019/881 on ENISA and on information and communications
+      technology cybersecurity certification (Cybersecurity Act)
+    resource: http://data.europa.eu/eli/reg/2019/881/oj
+    author: European Parliament and Council of the European Union
+    last_modified: '2019-06-07T00:00:00Z'
     used_by:
     - law/eu/horizontal/regulation-eu-2019-881
     - schemes/eu5g/eu5g-scheme
     - schemes/eucc/eucc-scheme
     - schemes/eucs/eucs-scheme
-  iso-casco-toolbox:
-    id: iso-casco-toolbox
-    resource: https://www.iso.org/casco.html
-    title: ISO/CASCO Conformity Assessment Standards Toolbox
-    author: International Organization for Standardization (ISO)
-    last_modified: '2020-01-01T00:00:00Z'
+  implementing-regulation-eu-2024-482:
+    title: Commission Implementing Regulation (EU) 2024/482 laying down rules for
+      the European Common Criteria-based cybersecurity certification scheme (EUCC)
+    resource: http://data.europa.eu/eli/reg_impl/2024/482/oj
+    author: European Commission
+    last_modified: '2024-02-07T00:00:00Z'
     used_by:
-    - standards/iso-casco/iso-iec-17000
-    - standards/iso-casco/iso-iec-17020
-    - standards/iso-casco/iso-iec-17021-1
+    - law/eu/horizontal/implementing-regulation-eu-2024-482
+    - schemes/eucc/eucc-scheme
+  regulation-eu-2024-2847:
+    title: Regulation (EU) 2024/2847 on horizontal cybersecurity requirements for
+      products with digital elements (Cyber Resilience Act)
+    resource: http://data.europa.eu/eli/reg/2024/2847/oj
+    author: European Parliament and Council of the European Union
+    last_modified: '2024-11-20T00:00:00Z'
+    used_by:
+    - law/eu/sectoral/cra-conformity-assessment
+  regulation-eu-2024-1689:
+    title: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence
+      (Artificial Intelligence Act)
+    resource: http://data.europa.eu/eli/reg/2024/1689/oj
+    author: European Parliament and Council of the European Union
+    last_modified: '2024-07-12T00:00:00Z'
+    used_by:
+    - law/eu/sectoral/ai-act-conformity-assessment
+  directive-2014-53-eu:
+    title: Directive 2014/53/EU on the harmonisation of the laws of the Member States
+      relating to the making available on the market of radio equipment (RED)
+    resource: http://data.europa.eu/eli/dir/2014/53/oj
+    author: European Parliament and Council of the European Union
+    last_modified: '2014-05-22T00:00:00Z'
+    used_by:
+    - law/eu/sectoral/radio-equipment-directive-2014-53
+  regulation-eu-2023-1230:
+    title: Regulation (EU) 2023/1230 on machinery
+    resource: http://data.europa.eu/eli/reg/2023/1230/oj
+    author: European Parliament and Council of the European Union
+    last_modified: '2023-06-29T00:00:00Z'
+    used_by:
+    - law/eu/sectoral/machinery-regulation-2023-1230
+  regulation-eu-2017-745:
+    title: Regulation (EU) 2017/745 on medical devices (MDR)
+    resource: http://data.europa.eu/eli/reg/2017/745/oj
+    author: European Parliament and Council of the European Union
+    last_modified: '2017-05-05T00:00:00Z'
+    used_by:
+    - law/eu/sectoral/mdr-2017-745
+  blue-guide-2022:
+    title: The 'Blue Guide' on the implementation of EU product rules 2022 (Commission
+      Notice 2022/C 247/01)
+    resource: http://data.europa.eu/eli/C/2022/247/oj
+    author: European Commission
+    last_modified: '2022-06-29T00:00:00Z'
+    used_by:
+    - guidance/european-commission/blue-guide-2022
+  nando-information-system:
+    title: NANDO (New Approach Notified and Designated Organisations) Information
+      System
+    resource: https://ec.europa.eu/growth/tools-databases/nando/
+    author: European Commission
+    last_modified: '2026-01-01T00:00:00Z'
+    used_by:
+    - jurisdictions/eea/iceland
+    - jurisdictions/eea/liechtenstein
+    - jurisdictions/eea/norway
+    - jurisdictions/eu-member-states/austria
+    - jurisdictions/eu-member-states/belgium
+    - jurisdictions/eu-member-states/bulgaria
+    - jurisdictions/eu-member-states/croatia
+    - jurisdictions/eu-member-states/cyprus
+    - jurisdictions/eu-member-states/czechia
+    - jurisdictions/eu-member-states/denmark
+    - jurisdictions/eu-member-states/estonia
+    - jurisdictions/eu-member-states/finland
+    - jurisdictions/eu-member-states/france
+    - jurisdictions/eu-member-states/germany
+    - jurisdictions/eu-member-states/greece
+    - jurisdictions/eu-member-states/hungary
+    - jurisdictions/eu-member-states/ireland
+    - jurisdictions/eu-member-states/italy
+    - jurisdictions/eu-member-states/latvia
+    - jurisdictions/eu-member-states/lithuania
+    - jurisdictions/eu-member-states/luxembourg
+    - jurisdictions/eu-member-states/malta
+    - jurisdictions/eu-member-states/netherlands
+    - jurisdictions/eu-member-states/poland
+    - jurisdictions/eu-member-states/portugal
+    - jurisdictions/eu-member-states/romania
+    - jurisdictions/eu-member-states/slovakia
+    - jurisdictions/eu-member-states/slovenia
+    - jurisdictions/eu-member-states/spain
+    - jurisdictions/eu-member-states/sweden
+    - roles/european-commission
+  iso-iec-17025-2017:
+    title: ISO/IEC 17025:2017 General requirements for the competence of testing and
+      calibration laboratories
+    resource: https://www.iso.org/standard/66912.html
+    author: ISO/CASCO
+    last_modified: '2017-11-01T00:00:00Z'
+    used_by:
     - standards/iso-casco/iso-iec-17025
+  iso-iec-17065-2012:
+    title: "ISO/IEC 17065:2012 Conformity assessment \u2014 Requirements for bodies\
+      \ certifying products, processes and services"
+    resource: https://www.iso.org/standard/46568.html
+    author: ISO/CASCO
+    last_modified: '2012-09-01T00:00:00Z'
+    used_by:
     - standards/iso-casco/iso-iec-17065
+  iso-iec-17020-2012:
+    title: "ISO/IEC 17020:2012 Conformity assessment \u2014 Requirements for the operation\
+      \ of various types of bodies performing inspection"
+    resource: https://www.iso.org/standard/29332.html
+    author: ISO/CASCO
+    last_modified: '2012-03-01T00:00:00Z'
+    used_by:
+    - standards/iso-casco/iso-iec-17020
+  iso-iec-17021-1-2015:
+    title: ISO/IEC 17021-1:2015 Requirements for bodies providing audit and certification
+      of management systems
+    resource: https://www.iso.org/standard/61666.html
+    author: ISO/CASCO
+    last_modified: '2015-06-01T00:00:00Z'
+    used_by:
+    - standards/iso-casco/iso-iec-17021-1
+  iso-iec-17011-2017:
+    title: ISO/IEC 17011:2017 Requirements for accreditation bodies accrediting conformity
+      assessment bodies
+    resource: https://www.iso.org/standard/66911.html
+    author: ISO/CASCO
+    last_modified: '2017-11-01T00:00:00Z'
+    used_by:
+    - standards/iso-casco/iso-iec-17011
+  iso-iec-17024-2012:
+    title: "ISO/IEC 17024:2012 Conformity assessment \u2014 General requirements for\
+      \ bodies operating certification of persons"
+    resource: https://www.iso.org/standard/52993.html
+    author: ISO/CASCO
+    last_modified: '2012-07-01T00:00:00Z'
+    used_by:
+    - standards/iso-casco/iso-iec-17024
+  iso-iec-17029-2019:
+    title: "ISO/IEC 17029:2019 Conformity assessment \u2014 General principles and\
+      \ requirements for validation and verification bodies"
+    resource: https://www.iso.org/standard/73885.html
+    author: ISO/CASCO
+    last_modified: '2019-10-01T00:00:00Z'
+    used_by:
+    - standards/iso-casco/iso-iec-17029
+  iso-iec-17067-2013:
+    title: "ISO/IEC 17067:2013 Conformity assessment \u2014 Fundamentals of product\
+      \ certification and guidelines for product certification schemes"
+    resource: https://www.iso.org/standard/53876.html
+    author: ISO/CASCO
+    last_modified: '2013-08-01T00:00:00Z'
+    used_by:
+    - standards/iso-casco/iso-iec-17067

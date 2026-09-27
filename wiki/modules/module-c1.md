@@ -1,64 +1,43 @@
 ---
 type: Module
-title: 'Module C1: Conformity to Type Based on Internal Production Control plus Supervised
+title: 'Module C1: Conformity to Type based on Internal Production Control plus Supervised
   Product Testing'
-description: Conformity to type combined with product tests carried out by or under
-  responsibility of a notified body.
+description: 'Decision 768/2008/EC Annex II Module C1: conformity to type with product
+  tests performed on behalf of the manufacturer.'
 category: module
 tags:
-- nlf
+- conformity-assessment
+- decision-768-2008-ec
 - module
 - module-c1
-- decision-768-2008-ec
 status: draft
 generated:
-  by: agent:antigravity
+  by: manual-curation
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
 - id: decision-768-2008-ec
-  resource: https://eur-lex.europa.eu/eli/dec/2008/768/oj
+  resource: http://data.europa.eu/eli/dec/2008/768/oj
   title: Decision No 768/2008/EC on a common framework for the marketing of products
   author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
-- id: blue-guide-2022
-  resource: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
-  title: "Commission Notice \u2014 The 'Blue Guide' on the implementation of EU product\
-    \ rules 2022"
-  author: European Commission
-  last_modified: '2022-06-29T00:00:00Z'
+  last_modified: '2008-08-13T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
   authority_level: binding
-  instrument_status: in_force
-  provision: Annex II, Module C1
   checked_at: '2026-09-27T00:00:00Z'
+  provision: Annex II Module C1
 ---
 
 # Summary
 
-**Module C1: Conformity to Type Based on Internal Production Control plus Supervised Product Testing** under Annex II of Decision No 768/2008/EC[^decision-768-2008-ec].
+**Module C1 (Conformity to type based on internal production control plus supervised product testing)** supplements Module C with product tests carried out by the manufacturer or on its behalf[^decision-768-2008-ec].
 
-Conformity to type combined with product tests carried out by or under responsibility of a notified body.
-
-# Structure and Obligations
-
-Manufacturer ensures conformity to type and legislative requirements, supplemented by tests on specific aspects carried out by or on behalf of a notified body.
-
-### Manufacturer obligations
-- Draw up technical documentation.
-- Ensure manufacturing process maintains conformity.
-- Affix CE marking and draw up EU declaration of conformity.
-
-### Notified body role
-- Independent third-party assessment where specified by the module.
-
-# Sector Usage
-Used across New Legislative Framework directives and regulations, including CRA Regulation (EU) 2024/2847, AI Act Regulation (EU) 2024/1689, Machinery Regulation (EU) 2023/1230, and RED Directive 2014/53/EU.
+# Normative Procedure (Annex II Module C1)
+- Tests on specific aspects of the product are carried out by the manufacturer or on its behalf, under the supervision of a chosen notified body.
+- The notified body's identification number is affixed during the manufacturing process.
 
 # Related concepts
-- [Modules Index](index.md)
-- [Decision 768/2008/EC](../law/eu/horizontal/decision-768-2008-ec.md)
+- [Module B](module-b.md)
+- [Module C](module-c.md)
 
-[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
-[^blue-guide-2022]: European Commission, Commission Notice — The 'Blue Guide' on the implementation of EU product rules 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
+[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, http://data.europa.eu/eli/dec/2008/768/oj
