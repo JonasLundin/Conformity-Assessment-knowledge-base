@@ -2,8 +2,8 @@
 type: Module
 title: 'Module D: Conformity to Type Based on Quality Assurance of the Production
   Process'
-description: Manufacturer operates an approved quality system for production, final
-  inspection and testing; notified body audits quality system.
+description: Production-phase procedure where a notified body audits and approves
+  the manufacturer's production quality management system (ISO 9001 adapted).
 category: module
 tags:
 - nlf
@@ -37,28 +37,41 @@ x-conformity-assessment:
 
 # Summary
 
-**Module D: Conformity to Type Based on Quality Assurance of the Production Process** under Annex II of Decision No 768/2008/EC[^decision-768-2008-ec].
+**Module D (Quality Assurance of the Production Process)** is an industrial-scale production-phase conformity assessment procedure under Annex II of Decision No 768/2008/EC[^decision-768-2008-ec][^blue-guide-2022].
 
-Manufacturer operates an approved quality system for production, final inspection and testing; notified body audits quality system.
+Following an EU-type examination under Module B, the manufacturer operates an approved Quality Management System (QMS) for production, final product inspection, and testing of the products concerned.
 
-# Structure and Obligations
+# QMS Auditing & Notified Body Surveillance
 
-Conformity to type based on quality assurance of the production process ensures and declares that products conform to the approved type in the EU-type examination certificate through an assessed quality management system.
+```
++-------------------------------------------------------------+
+| 1. Manufacturer QMS Application                             |
+| - Quality manual, procedures, inspection records            |
+| - Technical documentation of approved type (Module B cert)  |
++-------------------------------------------------------------+
+                               |
+                               v
++-------------------------------------------------------------+
+| 2. Notified Body Assessment (Point 3.3)                     |
+| - Initial on-site audit of manufacturing facilities         |
+| - Assessment team includes expert in product technology     |
+| - Audits compliance with ISO 9001 / harmonised standards    |
++-------------------------------------------------------------+
+                               |
+                               v
++-------------------------------------------------------------+
+| 3. Continuous Surveillance & Unannounced Audits (Point 4)   |
+| - Periodic surveillance audits to ensure QMS maintenance    |
+| - Notified body identification number affixed next to CE    |
++-------------------------------------------------------------+
+```
 
-### Manufacturer obligations
-- Draw up technical documentation.
-- Ensure manufacturing process maintains conformity.
-- Affix CE marking and draw up EU declaration of conformity.
-
-### Notified body role
-- Independent third-party assessment where specified by the module.
-
-# Sector Usage
-Used across New Legislative Framework directives and regulations, including CRA Regulation (EU) 2024/2847, AI Act Regulation (EU) 2024/1689, Machinery Regulation (EU) 2023/1230, and RED Directive 2014/53/EU.
+# CE Marking with Notified Body Number
+Under Module D, the CE marking on the physical product must be accompanied by the four-digit identification number of the notified body responsible for production surveillance (e.g. `CE 0123`).
 
 # Related concepts
-- [Modules Index](index.md)
-- [Decision 768/2008/EC](../law/decision-768-2008-ec.md)
-
-[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
-[^blue-guide-2022]: European Commission, Commission Notice — The 'Blue Guide' on the implementation of EU product rules 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
+- [Module B: EU-Type Examination](module-b.md)
+- [Module D1: Production Quality Assurance without Module B](module-d1.md)
+- [Module H: Full Quality Assurance](module-h.md)
+[^decision-768-2008-ec]: European Parliament and Council, Decision No 768/2008/EC, https://eur-lex.europa.eu/eli/dec/2008/768/oj
+[^blue-guide-2022]: European Commission, Blue Guide 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG

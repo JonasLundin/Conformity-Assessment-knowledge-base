@@ -1,8 +1,8 @@
 ---
 type: Module
 title: 'Module C: Conformity to Type Based on Internal Production Control'
-description: Manufacturer declares products conform to type described in EU-type examination
-  certificate and satisfy requirements; covers production phase.
+description: Production-phase procedure where manufacturer ensures manufactured products
+  conform to the type approved under Module B.
 category: module
 tags:
 - nlf
@@ -36,28 +36,19 @@ x-conformity-assessment:
 
 # Summary
 
-**Module C: Conformity to Type Based on Internal Production Control** under Annex II of Decision No 768/2008/EC[^decision-768-2008-ec].
+**Module C (Conformity to Type Based on Internal Production Control)** is the production-phase counterpart to Module B under Annex II of Decision No 768/2008/EC[^decision-768-2008-ec][^blue-guide-2022].
 
-Manufacturer declares products conform to type described in EU-type examination certificate and satisfy requirements; covers production phase.
+Having obtained an EU-type examination certificate under Module B, the manufacturer executes Module C to ensure and declare that each manufactured product conforms to the approved type described in the certificate and satisfies the legislative requirements.
 
-# Structure and Obligations
+# Core Obligations
 
-Conformity to type based on internal production control is the part of a conformity assessment procedure whereby the manufacturer fulfils obligations and ensures products conform to the type described in the EU-type examination certificate.
-
-### Manufacturer obligations
-- Draw up technical documentation.
-- Ensure manufacturing process maintains conformity.
-- Affix CE marking and draw up EU declaration of conformity.
-
-### Notified body role
-- Independent third-party assessment where specified by the module.
-
-# Sector Usage
-Used across New Legislative Framework directives and regulations, including CRA Regulation (EU) 2024/2847, AI Act Regulation (EU) 2024/1689, Machinery Regulation (EU) 2023/1230, and RED Directive 2014/53/EU.
+1. **Manufacturing Process Control**: The manufacturer must take all measures necessary to ensure that the manufacturing process and its monitoring guarantee conformity of manufactured products with the type described in the EU-type examination certificate.
+2. **CE Marking & Identification**: The manufacturer affixes the CE marking to each product conforming to the approved type.
+3. **Declaration of Conformity**: Draws up a written EU Declaration of Conformity identifying the specific Module B certificate reference.
 
 # Related concepts
-- [Modules Index](index.md)
-- [Decision 768/2008/EC](../law/decision-768-2008-ec.md)
-
-[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
-[^blue-guide-2022]: European Commission, Commission Notice — The 'Blue Guide' on the implementation of EU product rules 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
+- [Module B: EU-Type Examination](module-b.md)
+- [Module C1: Supervised Product Testing](module-c1.md)
+- [Module C2: Random Checks](module-c2.md)
+[^decision-768-2008-ec]: European Parliament and Council, Decision No 768/2008/EC, https://eur-lex.europa.eu/eli/dec/2008/768/oj
+[^blue-guide-2022]: European Commission, Blue Guide 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG

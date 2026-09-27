@@ -1,8 +1,8 @@
 ---
 type: Module
-title: 'Module H1: Conformity Based on Full Quality Assurance plus Design Examination'
-description: Full quality assurance system combined with examination of product design
-  and EU design examination certificate issued by notified body.
+title: 'Module H1: Full Quality Assurance plus Design Examination'
+description: Highest-rigour conformity assessment procedure adding mandatory design
+  examination and special surveillance to Module H.
 category: module
 tags:
 - nlf
@@ -36,28 +36,20 @@ x-conformity-assessment:
 
 # Summary
 
-**Module H1: Conformity Based on Full Quality Assurance plus Design Examination** under Annex II of Decision No 768/2008/EC[^decision-768-2008-ec].
+**Module H1 (Full Quality Assurance plus Design Examination)** is the highest-assurance conformity assessment procedure under Annex II of Decision No 768/2008/EC[^decision-768-2008-ec][^blue-guide-2022].
 
-Full quality assurance system combined with examination of product design and EU design examination certificate issued by notified body.
+Module H1 supplements the full quality management system requirements of Module H with a mandatory **EU Design Examination** and special surveillance conducted directly by the notified body for each individual product design.
 
-# Structure and Obligations
+# The Design Examination Certificate
 
-Full quality assurance supplemented by design examination: notified body assesses the full quality system and examines the design of the product, issuing an EU design examination certificate.
-
-### Manufacturer obligations
-- Draw up technical documentation.
-- Ensure manufacturing process maintains conformity.
-- Affix CE marking and draw up EU declaration of conformity.
-
-### Notified body role
-- Independent third-party assessment where specified by the module.
-
-# Sector Usage
-Used across New Legislative Framework directives and regulations, including CRA Regulation (EU) 2024/2847, AI Act Regulation (EU) 2024/1689, Machinery Regulation (EU) 2023/1230, and RED Directive 2014/53/EU.
+Under Module H1 Point 4:
+1. **Design Examination Application**: The manufacturer lodges an application for design examination detailing technical documentation, risk analyses, and test results.
+2. **Notified Body Examination**: The notified body examines the application and, where the design meets the legislative requirements, issues an **EU Design Examination Certificate**.
+3. **Modifications**: Any modification to the approved design that may affect conformity must receive additional approval from the notified body.
 
 # Related concepts
-- [Modules Index](index.md)
-- [Decision 768/2008/EC](../law/decision-768-2008-ec.md)
-
-[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
-[^blue-guide-2022]: European Commission, Commission Notice — The 'Blue Guide' on the implementation of EU product rules 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
+- [Module H: Full Quality Assurance](module-h.md)
+- [Module B: EU-Type Examination](module-b.md)
+- [Module G: Unit Verification](module-g.md)
+[^decision-768-2008-ec]: European Parliament and Council, Decision No 768/2008/EC, https://eur-lex.europa.eu/eli/dec/2008/768/oj
+[^blue-guide-2022]: European Commission, Blue Guide 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG

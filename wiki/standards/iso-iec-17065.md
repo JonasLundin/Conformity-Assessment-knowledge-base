@@ -1,8 +1,9 @@
 ---
 type: Standard
-title: ISO/IEC 17065:2012
-description: "Conformity assessment \u2014 Requirements for bodies certifying products,\
-  \ processes and services, fundamental for product notified bodies."
+title: "ISO/IEC 17065:2012 Conformity Assessment \u2014 Certification of Products,\
+  \ Processes and Services"
+description: International standard specifying requirements for the competence, consistent
+  operation, and impartiality of product certification bodies.
 category: standard
 tags:
 - standard
@@ -15,17 +16,12 @@ generated:
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
-- id: iso-casco-toolbox
-  resource: https://www.iso.org/casco.html
-  title: ISO/CASCO Conformity Assessment Standards Toolbox
-  author: International Organization for Standardization (ISO)
-  last_modified: '2020-01-01T00:00:00Z'
-- id: regulation-ec-765-2008
-  resource: https://eur-lex.europa.eu/eli/reg/2008/765/oj
-  title: Regulation (EC) No 765/2008 setting out the requirements for accreditation
-    and market surveillance
-  author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
+- id: iso-iec-17065
+  resource: https://www.iso.org/standard/46568.html
+  title: "ISO/IEC 17065:2012 Conformity assessment \u2014 Requirements for bodies\
+    \ certifying products, processes and services"
+  author: International Organization for Standardization (ISO) / IEC
+  last_modified: '2012-09-01T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
   authority_level: guidance
@@ -36,16 +32,36 @@ x-conformity-assessment:
 
 # Summary
 
-**ISO/IEC 17065:2012** is an essential standard within the ISO/CASCO conformity assessment toolbox[^iso-casco-toolbox].
+**ISO/IEC 17065:2012** is the foundational international standard defining requirements for bodies that certify products, processes, and services[^iso-iec-17065].
 
-Conformity assessment — Requirements for bodies certifying products, processes and services, fundamental for product notified bodies.
+In European product conformity assessment under the New Legislative Framework (NLF) and the Cybersecurity Act (Regulation (EU) 2019/881), accreditation against ISO/IEC 17065 is the primary prerequisite for a Conformity Assessment Body (CAB) to be notified to the European Commission as a **Notified Body** for product certification schemes (e.g. Module B, Module H, EUCC).
 
-# Application in EU Law
-Harmonised standard referenced under Regulation (EC) No 765/2008[^regulation-ec-765-2008] for the accreditation and notification of conformity assessment bodies.
+# Core Structural & Technical Requirements
+
+```
+                       ISO/IEC 17065 STRUCTURAL MODEL
++-------------------------------------------------------------------+
+| 4. General Requirements: Impartiality, Liability, Confidentiality  |
++-------------------------------------------------------------------+
+| 5. Structural Requirements: Governance & Management Mechanism     |
++-------------------------------------------------------------------+
+| 6. Resource Requirements: Personnel Competence, Subcontracting    |
++-------------------------------------------------------------------+
+| 7. Process Requirements:                                          |
+|    Application ==> Evaluation ==> Review ==> Decision ==> Cert    |
++-------------------------------------------------------------------+
+| 8. Management System Requirements: ISO 9001 Alignment / Options   |
++-------------------------------------------------------------------+
+```
+
+### Key Principles
+- **Separation of Evaluation and Decision**: Personnel who perform technical evaluations (e.g. cybersecurity testing, code auditing) must not make the final certification decision.
+- **Impartiality Safeguards**: Strict conflict of interest rules preventing certification bodies from providing consulting or engineering services to the manufacturers they evaluate.
+- **Surveillance Protocols**: Defined procedures for ongoing surveillance of certified products and management of certificate suspensions/withdrawals.
 
 # Related concepts
-- [Standards Index](index.md)
-- [Regulation (EC) No 765/2008](../law/regulation-ec-765-2008.md)
-
-[^iso-casco-toolbox]: International Organization for Standardization (ISO), ISO/CASCO Conformity Assessment Standards Toolbox, https://www.iso.org/casco.html
-[^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj
+- [ISO/IEC 17025 (Testing Laboratories)](iso-iec-17025.md)
+- [ISO/IEC 17021-1 (Management Systems Certification)](iso-iec-17021-1.md)
+- [EUCC Cybersecurity Scheme](../schemes/eucc.md)
+- [Notified Body Role](../roles/notified-body.md)
+[^iso-iec-17065]: International Organization for Standardization (ISO) / IEC, ISO/IEC 17065:2012 Conformity assessment — Requirements for bodies certifying products, processes and services, https://www.iso.org/standard/46568.html

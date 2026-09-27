@@ -1,8 +1,9 @@
 ---
 type: Standard
-title: ISO/IEC 17025:2017
-description: General requirements for the competence, impartiality and consistent
-  operation of testing and calibration laboratories.
+title: ISO/IEC 17025:2017 General Requirements for the Competence of Testing and Calibration
+  Laboratories
+description: International benchmark standard for laboratories performing technical
+  testing, calibration, and penetration evaluations.
 category: standard
 tags:
 - standard
@@ -15,17 +16,12 @@ generated:
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
-- id: iso-casco-toolbox
-  resource: https://www.iso.org/casco.html
-  title: ISO/CASCO Conformity Assessment Standards Toolbox
-  author: International Organization for Standardization (ISO)
-  last_modified: '2020-01-01T00:00:00Z'
-- id: regulation-ec-765-2008
-  resource: https://eur-lex.europa.eu/eli/reg/2008/765/oj
-  title: Regulation (EC) No 765/2008 setting out the requirements for accreditation
-    and market surveillance
-  author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
+- id: iso-iec-17025
+  resource: https://www.iso.org/standard/66912.html
+  title: ISO/IEC 17025:2017 General requirements for the competence of testing and
+    calibration laboratories
+  author: International Organization for Standardization (ISO) / IEC
+  last_modified: '2017-11-01T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
   authority_level: guidance
@@ -36,16 +32,18 @@ x-conformity-assessment:
 
 # Summary
 
-**ISO/IEC 17025:2017** is an essential standard within the ISO/CASCO conformity assessment toolbox[^iso-casco-toolbox].
+**ISO/IEC 17025:2017** is the internationally recognized benchmark standard for testing and calibration laboratories[^iso-iec-17025].
 
-General requirements for the competence, impartiality and consistent operation of testing and calibration laboratories.
+In cybersecurity conformity assessment, accreditation to ISO/IEC 17025 is mandatory for evaluation laboratories—including Commercial Evaluation Facilities (ITSEFs) under EUCC—that conduct hands-on vulnerability assessments, penetration testing, fuzzing, and cryptographic evaluations.
 
-# Application in EU Law
-Harmonised standard referenced under Regulation (EC) No 765/2008[^regulation-ec-765-2008] for the accreditation and notification of conformity assessment bodies.
+# Core Requirements for Cybersecurity Testing Labs
+
+- **Technical Competence**: Demonstrated qualifications, ethical hacking certifications, and continuous training of security evaluation engineers.
+- **Metrological Traceability & Test Tools**: Rigorous validation and configuration management of testing software (disassemblers, debuggers, fuzzers, side-channel measurement benches).
+- **Measurement Uncertainty & Reproducibility**: Repeatable vulnerability reproduction and structured test reports.
 
 # Related concepts
-- [Standards Index](index.md)
-- [Regulation (EC) No 765/2008](../law/regulation-ec-765-2008.md)
-
-[^iso-casco-toolbox]: International Organization for Standardization (ISO), ISO/CASCO Conformity Assessment Standards Toolbox, https://www.iso.org/casco.html
-[^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj
+- [ISO/IEC 17065 (Product Certification Bodies)](iso-iec-17065.md)
+- [EUCC Scheme](../schemes/eucc.md)
+- [Type Examination Procedure](../procedures/type-examination.md)
+[^iso-iec-17025]: International Organization for Standardization (ISO) / IEC, ISO/IEC 17025:2017 General requirements for the competence of testing and calibration laboratories, https://www.iso.org/standard/66912.html
