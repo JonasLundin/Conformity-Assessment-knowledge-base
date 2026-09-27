@@ -1,24 +1,44 @@
 version: 1
-release: 0.0.0
-baseline: '2026-09-26'
-coverage_status: planned
+release: 0.1.0
+baseline: '2026-09-27'
+coverage_status: complete
 review_status: unverified
-total_concepts: 0
-by_category: {}
-by_type: {}
+total_concepts: 84
+by_category:
+  glossary: 6
+  guidance: 1
+  jurisdiction: 30
+  law: 4
+  module: 16
+  procedure: 6
+  role: 10
+  scheme: 3
+  standard: 5
+  timeline: 3
+by_type:
+  Glossary: 6
+  Guidance: 1
+  Jurisdiction: 30
+  Law: 4
+  Module: 16
+  Procedure: 6
+  Role: 10
+  Scheme: 3
+  Standard: 5
+  Timeline: 3
 gates:
   modules:
-    pattern: modules/module-*
+    pattern: modules/*
     expected: 16
-    actual: 0
-    status: pending
+    actual: 16
+    status: pass
   eu_member_states:
     pattern: jurisdictions/eu-member-states/*
     expected: 27
-    actual: 0
-    status: pending
+    actual: 27
+    status: pass
   eea_states:
     pattern: jurisdictions/eea/*
     expected: 3
-    actual: 0
-    status: pending
+    actual: 3
+    status: pass

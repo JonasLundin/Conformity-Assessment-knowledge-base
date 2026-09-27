@@ -1,4 +1,238 @@
 version: 1
-checked_at: '2026-09-26T00:00:00Z'
-total_sources: 0
-sources: {}
+checked_at: '2026-09-27T00:00:00Z'
+total_sources: 6
+sources:
+  decision-768-2008-ec:
+    id: decision-768-2008-ec
+    resource: https://eur-lex.europa.eu/eli/dec/2008/768/oj
+    title: Decision No 768/2008/EC on a common framework for the marketing of products
+    author: European Parliament and Council of the European Union
+    last_modified: '2008-07-09T00:00:00Z'
+    used_by:
+    - glossary/accreditation
+    - glossary/ce-marking
+    - glossary/conformity-assessment
+    - glossary/notified-body
+    - glossary/presumption-of-conformity
+    - glossary/technical-documentation
+    - jurisdictions/eea/iceland
+    - jurisdictions/eea/liechtenstein
+    - jurisdictions/eea/norway
+    - jurisdictions/eu-member-states/austria
+    - jurisdictions/eu-member-states/belgium
+    - jurisdictions/eu-member-states/bulgaria
+    - jurisdictions/eu-member-states/croatia
+    - jurisdictions/eu-member-states/cyprus
+    - jurisdictions/eu-member-states/czechia
+    - jurisdictions/eu-member-states/denmark
+    - jurisdictions/eu-member-states/estonia
+    - jurisdictions/eu-member-states/finland
+    - jurisdictions/eu-member-states/france
+    - jurisdictions/eu-member-states/germany
+    - jurisdictions/eu-member-states/greece
+    - jurisdictions/eu-member-states/hungary
+    - jurisdictions/eu-member-states/ireland
+    - jurisdictions/eu-member-states/italy
+    - jurisdictions/eu-member-states/latvia
+    - jurisdictions/eu-member-states/lithuania
+    - jurisdictions/eu-member-states/luxembourg
+    - jurisdictions/eu-member-states/malta
+    - jurisdictions/eu-member-states/netherlands
+    - jurisdictions/eu-member-states/poland
+    - jurisdictions/eu-member-states/portugal
+    - jurisdictions/eu-member-states/romania
+    - jurisdictions/eu-member-states/slovakia
+    - jurisdictions/eu-member-states/slovenia
+    - jurisdictions/eu-member-states/spain
+    - jurisdictions/eu-member-states/sweden
+    - law/decision-768-2008-ec
+    - law/regulation-ec-765-2008
+    - law/regulation-eu-2019-1020
+    - law/regulation-eu-2019-881
+    - modules/module-a
+    - modules/module-a1
+    - modules/module-a2
+    - modules/module-b
+    - modules/module-c
+    - modules/module-c1
+    - modules/module-c2
+    - modules/module-d
+    - modules/module-d1
+    - modules/module-e
+    - modules/module-e1
+    - modules/module-f
+    - modules/module-f1
+    - modules/module-g
+    - modules/module-h
+    - modules/module-h1
+    - procedures/accreditation
+    - procedures/certificate-issuance
+    - procedures/notification
+    - procedures/peer-evaluation
+    - procedures/surveillance-audit
+    - procedures/type-examination
+    - roles/authorised-representative
+    - roles/conformity-assessment-body
+    - roles/distributor
+    - roles/european-cooperation-for-accreditation
+    - roles/importer
+    - roles/manufacturer
+    - roles/market-surveillance-authority
+    - roles/national-accreditation-body
+    - roles/notified-body
+    - roles/notifying-authority
+    - timeline/eucc-adoption-2024
+    - timeline/market-surveillance-reg-2019
+    - timeline/nlf-adoption-2008
+  regulation-ec-765-2008:
+    id: regulation-ec-765-2008
+    resource: https://eur-lex.europa.eu/eli/reg/2008/765/oj
+    title: Regulation (EC) No 765/2008 setting out the requirements for accreditation
+      and market surveillance
+    author: European Parliament and Council of the European Union
+    last_modified: '2008-07-09T00:00:00Z'
+    used_by:
+    - glossary/accreditation
+    - glossary/ce-marking
+    - glossary/conformity-assessment
+    - glossary/notified-body
+    - glossary/presumption-of-conformity
+    - glossary/technical-documentation
+    - jurisdictions/eea/iceland
+    - jurisdictions/eea/liechtenstein
+    - jurisdictions/eea/norway
+    - jurisdictions/eu-member-states/austria
+    - jurisdictions/eu-member-states/belgium
+    - jurisdictions/eu-member-states/bulgaria
+    - jurisdictions/eu-member-states/croatia
+    - jurisdictions/eu-member-states/cyprus
+    - jurisdictions/eu-member-states/czechia
+    - jurisdictions/eu-member-states/denmark
+    - jurisdictions/eu-member-states/estonia
+    - jurisdictions/eu-member-states/finland
+    - jurisdictions/eu-member-states/france
+    - jurisdictions/eu-member-states/germany
+    - jurisdictions/eu-member-states/greece
+    - jurisdictions/eu-member-states/hungary
+    - jurisdictions/eu-member-states/ireland
+    - jurisdictions/eu-member-states/italy
+    - jurisdictions/eu-member-states/latvia
+    - jurisdictions/eu-member-states/lithuania
+    - jurisdictions/eu-member-states/luxembourg
+    - jurisdictions/eu-member-states/malta
+    - jurisdictions/eu-member-states/netherlands
+    - jurisdictions/eu-member-states/poland
+    - jurisdictions/eu-member-states/portugal
+    - jurisdictions/eu-member-states/romania
+    - jurisdictions/eu-member-states/slovakia
+    - jurisdictions/eu-member-states/slovenia
+    - jurisdictions/eu-member-states/spain
+    - jurisdictions/eu-member-states/sweden
+    - law/regulation-ec-765-2008
+    - procedures/accreditation
+    - procedures/certificate-issuance
+    - procedures/notification
+    - procedures/peer-evaluation
+    - procedures/surveillance-audit
+    - procedures/type-examination
+    - roles/authorised-representative
+    - roles/conformity-assessment-body
+    - roles/distributor
+    - roles/european-cooperation-for-accreditation
+    - roles/importer
+    - roles/manufacturer
+    - roles/market-surveillance-authority
+    - roles/national-accreditation-body
+    - roles/notified-body
+    - roles/notifying-authority
+    - standards/iso-iec-17000
+    - standards/iso-iec-17020
+    - standards/iso-iec-17021-1
+    - standards/iso-iec-17025
+    - standards/iso-iec-17065
+    - timeline/eucc-adoption-2024
+    - timeline/market-surveillance-reg-2019
+    - timeline/nlf-adoption-2008
+  blue-guide-2022:
+    id: blue-guide-2022
+    resource: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
+    title: "Commission Notice \u2014 The 'Blue Guide' on the implementation of EU\
+      \ product rules 2022"
+    author: European Commission
+    last_modified: '2022-06-29T00:00:00Z'
+    used_by:
+    - guidance/blue-guide-2022
+    - modules/module-a
+    - modules/module-a1
+    - modules/module-a2
+    - modules/module-b
+    - modules/module-c
+    - modules/module-c1
+    - modules/module-c2
+    - modules/module-d
+    - modules/module-d1
+    - modules/module-e
+    - modules/module-e1
+    - modules/module-f
+    - modules/module-f1
+    - modules/module-g
+    - modules/module-h
+    - modules/module-h1
+  regulation-eu-2019-1020:
+    id: regulation-eu-2019-1020
+    resource: http://data.europa.eu/eli/reg/2019/1020/oj
+    title: Regulation (EU) 2019/1020 on market surveillance and compliance of products
+    author: European Parliament and Council of the European Union
+    last_modified: '2019-06-20T00:00:00Z'
+    used_by:
+    - jurisdictions/eu-member-states/austria
+    - jurisdictions/eu-member-states/belgium
+    - jurisdictions/eu-member-states/bulgaria
+    - jurisdictions/eu-member-states/croatia
+    - jurisdictions/eu-member-states/cyprus
+    - jurisdictions/eu-member-states/czechia
+    - jurisdictions/eu-member-states/denmark
+    - jurisdictions/eu-member-states/estonia
+    - jurisdictions/eu-member-states/finland
+    - jurisdictions/eu-member-states/france
+    - jurisdictions/eu-member-states/germany
+    - jurisdictions/eu-member-states/greece
+    - jurisdictions/eu-member-states/hungary
+    - jurisdictions/eu-member-states/ireland
+    - jurisdictions/eu-member-states/italy
+    - jurisdictions/eu-member-states/latvia
+    - jurisdictions/eu-member-states/lithuania
+    - jurisdictions/eu-member-states/luxembourg
+    - jurisdictions/eu-member-states/malta
+    - jurisdictions/eu-member-states/netherlands
+    - jurisdictions/eu-member-states/poland
+    - jurisdictions/eu-member-states/portugal
+    - jurisdictions/eu-member-states/romania
+    - jurisdictions/eu-member-states/slovakia
+    - jurisdictions/eu-member-states/slovenia
+    - jurisdictions/eu-member-states/spain
+    - jurisdictions/eu-member-states/sweden
+    - law/regulation-eu-2019-1020
+  regulation-eu-2019-881:
+    id: regulation-eu-2019-881
+    resource: http://data.europa.eu/eli/reg/2019/881/oj
+    title: Regulation (EU) 2019/881 (Cybersecurity Act)
+    author: European Parliament and Council of the European Union
+    last_modified: '2019-04-17T00:00:00Z'
+    used_by:
+    - law/regulation-eu-2019-881
+    - schemes/eu5g
+    - schemes/eucc
+    - schemes/eucs
+  iso-casco-toolbox:
+    id: iso-casco-toolbox
+    resource: https://www.iso.org/casco.html
+    title: ISO/CASCO Conformity Assessment Standards Toolbox
+    author: International Organization for Standardization (ISO)
+    last_modified: '2020-01-01T00:00:00Z'
+    used_by:
+    - standards/iso-iec-17000
+    - standards/iso-iec-17020
+    - standards/iso-iec-17021-1
+    - standards/iso-iec-17025
+    - standards/iso-iec-17065
