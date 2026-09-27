@@ -1,6 +1,6 @@
 # Glossary
 
-Terms defined in Regulation (EC) No 765/2008, Decision 768/2008/EC, Regulation (EU) 2019/1020 and ISO/IEC 17000.
+Navigation index for Glossary.
 
 ## Concepts
 
@@ -10,3 +10,4 @@ Terms defined in Regulation (EC) No 765/2008, Decision 768/2008/EC, Regulation (
 - [Notified Body](notified-body.md) — A conformity assessment body designated to carry out third-party conformity assessment tasks under Union harmonisation legislation.
 - [Presumption of Conformity](presumption-of-conformity.md) — Legal presumption that products manufactured in conformity with harmonised standards satisfy essential legal requirements.
 - [Technical Documentation](technical-documentation.md) — The dossier compiled by the manufacturer demonstrating conformity of the product with applicable essential requirements.
+

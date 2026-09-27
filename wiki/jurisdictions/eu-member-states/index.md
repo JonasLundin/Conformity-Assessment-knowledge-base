@@ -1,33 +1,34 @@
-# EU Member States
+# Eu Member States
 
-One page per Member State.
+Navigation index for Eu Member States.
 
 ## Concepts
 
-- [Conformity Assessment Structure in Austria](austria.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Austria.
-- [Conformity Assessment Structure in Belgium](belgium.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Belgium.
-- [Conformity Assessment Structure in Bulgaria](bulgaria.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Bulgaria.
-- [Conformity Assessment Structure in Croatia](croatia.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Croatia.
-- [Conformity Assessment Structure in Cyprus](cyprus.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Cyprus.
-- [Conformity Assessment Structure in Czechia](czechia.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Czechia.
-- [Conformity Assessment Structure in Denmark](denmark.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Denmark.
-- [Conformity Assessment Structure in Estonia](estonia.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Estonia.
-- [Conformity Assessment Structure in Finland](finland.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Finland.
-- [Conformity Assessment Structure in France](france.md) — Notifying authorities, national accreditation body, and conformity assessment designation in France.
-- [Conformity Assessment Structure in Germany](germany.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Germany.
-- [Conformity Assessment Structure in Greece](greece.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Greece.
-- [Conformity Assessment Structure in Hungary](hungary.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Hungary.
-- [Conformity Assessment Structure in Ireland](ireland.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Ireland.
-- [Conformity Assessment Structure in Italy](italy.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Italy.
-- [Conformity Assessment Structure in Latvia](latvia.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Latvia.
-- [Conformity Assessment Structure in Lithuania](lithuania.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Lithuania.
-- [Conformity Assessment Structure in Luxembourg](luxembourg.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Luxembourg.
-- [Conformity Assessment Structure in Malta](malta.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Malta.
-- [Conformity Assessment Structure in Netherlands](netherlands.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Netherlands.
-- [Conformity Assessment Structure in Poland](poland.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Poland.
-- [Conformity Assessment Structure in Portugal](portugal.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Portugal.
-- [Conformity Assessment Structure in Romania](romania.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Romania.
-- [Conformity Assessment Structure in Slovakia](slovakia.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Slovakia.
-- [Conformity Assessment Structure in Slovenia](slovenia.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Slovenia.
-- [Conformity Assessment Structure in Spain](spain.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Spain.
-- [Conformity Assessment Structure in Sweden](sweden.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Sweden.
+- [Austria (Österreich)](austria.md) — Conformity assessment, accreditation (Akkreditierung Austria) and notification infrastructure in Austria (Österreich).
+- [Belgium (België/Belgique)](belgium.md) — Conformity assessment, accreditation (Belgian Accreditation Body (BELAC)) and notification infrastructure in Belgium (België/Belgique).
+- [Bulgaria (България)](bulgaria.md) — Conformity assessment, accreditation (Executive Agency Bulgarian Accreditation Service (EA BAS)) and notification infrastructure in Bulgaria (България).
+- [Croatia (Hrvatska)](croatia.md) — Conformity assessment, accreditation (Hrvatska akreditacijska agencija (HAA)) and notification infrastructure in Croatia (Hrvatska).
+- [Cyprus (Κύπρος)](cyprus.md) — Conformity assessment, accreditation (Cyprus Organization for the Promotion of Quality (CYS-CYSAB)) and notification infrastructure in Cyprus (Κύπρος).
+- [Czech Republic (Česko)](czechia.md) — Conformity assessment, accreditation (Český institut pro akreditaci (ČIA)) and notification infrastructure in Czech Republic (Česko).
+- [Denmark (Danmark)](denmark.md) — Conformity assessment, accreditation (Den Danske Akkrediteringsfond (DANAK)) and notification infrastructure in Denmark (Danmark).
+- [Estonia (Eesti)](estonia.md) — Conformity assessment, accreditation (Eesti Akrediteerimiskeskus (EAK)) and notification infrastructure in Estonia (Eesti).
+- [Finland (Suomi)](finland.md) — Conformity assessment, accreditation (Finnish Accreditation Service (FINAS)) and notification infrastructure in Finland (Suomi).
+- [France](france.md) — Conformity assessment, accreditation (Comité français d'accréditation (COFRAC)) and notification infrastructure in France.
+- [Germany (Deutschland)](germany.md) — Conformity assessment, accreditation (Deutsche Akkreditierungsstelle (DAkkS)) and notification infrastructure in Germany (Deutschland).
+- [Greece (Ελλάδα)](greece.md) — Conformity assessment, accreditation (Hellenic Accreditation System (ESYD)) and notification infrastructure in Greece (Ελλάδα).
+- [Hungary (Magyarország)](hungary.md) — Conformity assessment, accreditation (Nemzeti Akkreditáló Hatóság (NAH)) and notification infrastructure in Hungary (Magyarország).
+- [Ireland](ireland.md) — Conformity assessment, accreditation (Irish National Accreditation Board (INAB)) and notification infrastructure in Ireland.
+- [Italy (Italia)](italy.md) — Conformity assessment, accreditation (L'Ente Italiano di Accreditamento (ACCREDIA)) and notification infrastructure in Italy (Italia).
+- [Latvia (Latvija)](latvia.md) — Conformity assessment, accreditation (Latvian National Accreditation Bureau (LATAK)) and notification infrastructure in Latvia (Latvija).
+- [Lithuania (Lietuva)](lithuania.md) — Conformity assessment, accreditation (National Accreditation Bureau (Nacionalinis akreditacijos biuras - NAB)) and notification infrastructure in Lithuania (Lietuva).
+- [Luxembourg](luxembourg.md) — Conformity assessment, accreditation (Office Luxembourgeois d'Accréditation et de Surveillance (OLAS)) and notification infrastructure in Luxembourg.
+- [Malta](malta.md) — Conformity assessment, accreditation (National Accreditation Board - Malta (NAB-MALTA)) and notification infrastructure in Malta.
+- [Netherlands (Nederland)](netherlands.md) — Conformity assessment, accreditation (Raad voor Accreditatie (RvA)) and notification infrastructure in Netherlands (Nederland).
+- [Poland (Polska)](poland.md) — Conformity assessment, accreditation (Polskie Centrum Akredytacji (PCA)) and notification infrastructure in Poland (Polska).
+- [Portugal](portugal.md) — Conformity assessment, accreditation (Instituto Português de Acreditação (IPAC)) and notification infrastructure in Portugal.
+- [Romania (România)](romania.md) — Conformity assessment, accreditation (Asociația de Acreditare din România (RENAR)) and notification infrastructure in Romania (România).
+- [Slovakia (Slovensko)](slovakia.md) — Conformity assessment, accreditation (Slovenská národná akreditačná služba (SNAS)) and notification infrastructure in Slovakia (Slovensko).
+- [Slovenia (Slovenija)](slovenia.md) — Conformity assessment, accreditation (Slovenska akreditacija (SA)) and notification infrastructure in Slovenia (Slovenija).
+- [Spain (España)](spain.md) — Conformity assessment, accreditation (Entidad Nacional de Acreditación (ENAC)) and notification infrastructure in Spain (España).
+- [Sweden (Sverige)](sweden.md) — Conformity assessment, accreditation (Styrelsen för ackreditering och teknisk kontroll (Swedac)) and notification infrastructure in Sweden (Sverige).
+

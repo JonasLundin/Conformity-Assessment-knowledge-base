@@ -17,11 +17,11 @@ generated:
 stale_after: '2027-12-31T00:00:00Z'
 sources:
 - id: regulation-ec-765-2008
-  resource: https://eur-lex.europa.eu/eli/reg/2008/765/oj
+  resource: http://data.europa.eu/eli/reg/2008/765/oj
   title: Regulation (EC) No 765/2008 setting out the requirements for accreditation
-    and market surveillance
+    and market surveillance relating to the marketing of products
   author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
+  last_modified: '2008-08-13T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
   authority_level: binding
@@ -32,46 +32,17 @@ x-conformity-assessment:
 
 # Summary
 
-**Regulation (EC) No 765/2008** sets out the statutory framework for **accreditation** and market surveillance relating to the marketing of products in the European Union[^regulation-ec-765-2008].
+Regulation (EC) No 765/2008 establishes the legal framework for the accreditation of conformity assessment bodies and general principles for the CE marking in the European Union[^regulation-ec-765-2008].
 
-Together with Decision 768/2008/EC, it establishes the legal mechanism ensuring that Conformity Assessment Bodies (CABs) operate with independence, technical competence, and uniform rigor across all Member States.
-
-# The Accreditation Architecture (Articles 3–14)
-
-```
-+-------------------------------------------------------------------+
-|               REGULATION (EC) NO 765/2008 ACCREDITATION           |
-+-------------------------------------------------------------------+
-| 1. SINGLE NATIONAL ACCREDITATION BODY (NAB) (Article 4)           |
-|    - Each EU Member State designates ONE single NAB               |
-|      (e.g., SWEDAC in Sweden, DAkkS in Germany, COFRAC in France) |
-|    - NAB operates on a non-profit, public authority basis         |
-|    - Commercial competition between NABs is strictly prohibited   |
-+-------------------------------------------------------------------+
-| 2. EUROPEAN CO-OPERATION FOR ACCREDITATION (EA) (Article 14)      |
-|    - Recognized regional body running mandatory peer evaluations  |
-|    - Mutual Recognition Agreements (EA MLA): Accreditation in one |
-|      Member State is legally valid across all 27 EU States        |
-+-------------------------------------------------------------------+
-| 3. INDEPENDENCE & COMPETENCE EVALUATION                           |
-|    - NABs audit CABs against ISO/CASCO standards:                 |
-|      * Testing labs: ISO/IEC 17025                                |
-|      * Product certifiers: ISO/IEC 17065                          |
-|      * Management system auditors: ISO/IEC 17021-1                |
-+-------------------------------------------------------------------+
-```
-
-# Rules Governing the CE Marking (Article 30)
-
-Article 30 establishes the horizontal legal principles of the CE marking:
-1. **Exclusive Conformity Mark**: CE marking is the only marking which attests that the product conforms with applicable EU harmonisation legislation.
-2. **Affixing Mandate**: Affixed only by the manufacturer or authorized representative before placing on the market.
-3. **Visibility & Legibility**: Must be visibly, legibly, and indelibly affixed to the product or data plate.
-4. **Identification Number**: If a notified body is involved in the production control phase (e.g. Modules C2, D, E, F, H1), the notified body's 4-digit identification number must follow the CE mark.
+# Core Provisions
+- **Single Accreditation Body (Art 4)**: Each Member State must appoint a single national accreditation body (NAB) operating as a public authority or with public authority delegated to it.
+- **Non-competition (Art 6)**: National accreditation bodies operate on a non-profit basis and must not compete with other national accreditation bodies.
+- **Cross-border Accreditation (Art 7)**: Conformity assessment bodies must seek accreditation from the NAB of the Member State in which they are established, except under specific narrow derogations.
+- **Peer Evaluation (Art 10)**: Accreditation bodies undergo peer evaluation organized by European co-operation for Accreditation (EA).
+- **CE Marking Principles (Art 30)**: Establishes general principles of the CE marking, including affixing rules and prohibitions against deceptive marks. *(Note: The requirement to affix the 4-digit notified body identification number alongside the CE mark is established under Decision No 768/2008/EC Annex I Article R12(3) and sector-specific legislation, rather than Article 30 of Regulation 765/2008).*
 
 # Related concepts
-- [Decision No 768/2008/EC](decision-768-2008-ec.md)
-- [ISO/IEC 17065: Product Certification Bodies](../../../standards/iso-casco/iso-iec-17065.md)
-- [ISO/IEC 17025: Testing Laboratories](../../../standards/iso-casco/iso-iec-17025.md)
+- [Decision 768/2008/EC](decision-768-2008-ec.md)
+- [Accreditation Process](../../../procedures/accreditation/accreditation-process.md)
 
-[^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj
+[^regulation-ec-765-2008]: European Parliament and Council, Regulation (EC) No 765/2008, http://data.europa.eu/eli/reg/2008/765/oj
