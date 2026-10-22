@@ -15,15 +15,22 @@ generated:
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
-- id: csa-regulation
+- id: implementing-regulation-eu-2024-482
+  resource: http://data.europa.eu/eli/reg_impl/2024/482/oj
+  title: Commission Implementing Regulation (EU) 2024/482 laying down rules for the
+    application of Regulation (EU) 2019/881 as regards the European Common Criteria-based
+    cybersecurity certification scheme (EUCC)
+  author: European Commission
+  last_modified: '2024-02-07T00:00:00Z'
+- id: regulation-eu-2019-881
   resource: http://data.europa.eu/eli/reg/2019/881/oj
   title: Regulation (EU) 2019/881 on ENISA and on information and communications technology
     cybersecurity certification (Cybersecurity Act)
   author: European Parliament and Council of the European Union
-  last_modified: '2019-04-17T00:00:00Z'
+  last_modified: '2019-06-07T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
-  authority_level: guidance
+  authority_level: binding
   instrument_status: in_force
   provision: Cybersecurity Act Title III
   checked_at: '2026-09-27T00:00:00Z'
@@ -31,35 +38,16 @@ x-conformity-assessment:
 
 # Summary
 
-The **European Common Criteria Cybersecurity Certification Scheme (EUCC)** is the first official European cybersecurity certification scheme adopted under **Regulation (EU) 2019/881 (Cybersecurity Act)** via Commission Implementing Regulation (EU) 2024/482[^csa-regulation].
+The European Common Criteria-based cybersecurity certification scheme (EUCC) is established under Commission Implementing Regulation (EU) 2024/482[^implementing-regulation-eu-2024-482].
 
-EUCC establishes a harmonized, Union-wide certification framework for ICT products, replacing disparate national schemes (such as the SOG-IS agreement) with certificates recognized across all EU Member States.
-
-# Technical Architecture & Evaluation Levels
-
-```
-+-------------------------------------------------------------+
-|                      EUCC Scheme Levels                     |
-|                                                             |
-|   +--------------------------+  +------------------------+  |
-|   |   Assurance Level:       |  |  Assurance Level:      |  |
-|   |      SUBSTANTIAL         |  |         HIGH           |  |
-|   |  - AVA_VAN.1 / AVA_VAN.2 |  | - AVA_VAN.4 / AVA_VAN.5|  |
-|   |  - Basic penetration     |  | - Advanced resistance  |  |
-|   |    resistance            |  |   against state actors |  |
-|   +--------------------------+  +------------------------+  |
-|                                                             |
-+-------------------------------------------------------------+
-```
-
-### Key Operational Characteristics
-- **Evaluation Standard**: Based on Common Criteria v3.1 / ISO/IEC 15408 and Common Evaluation Methodology (CEM / ISO/IEC 18045).
-- **Vulnerability Handling & Patch Management**: Incorporates mandatory requirements for manufacturers to maintain active CVD programs and manage patch updates for certified products.
-- **Interoperability with CRA**: EUCC certificates at assurance level 'substantial' or 'high' confer a direct presumption of conformity for products with digital elements under Article 27 of the Cyber Resilience Act.
+# Key Features and Assurance Levels
+- **Legal Basis**: Adopted under Article 49 of Regulation (EU) 2019/881 (Cybersecurity Act).
+- **Assurance Levels**: Covers assurance levels 'substantial' and 'high'. For 'high', vulnerability assessment includes AVA_VAN.3 to AVA_VAN.5.
+- **Entry into Application**: **27 February 2025**.
+- **CRA Interplay**: Under CRA Article 27, presumption of conformity via EUCC is conditional upon the Commission adopting an implementing act specifying relevant EUCC certificates and assurance levels (no such implementing act has been adopted yet).
 
 # Related concepts
-- [ISO/IEC 17065 Standard](../../standards/iso-casco/iso-iec-17065.md)
-- [ISO/IEC 17025 Standard](../../standards/iso-casco/iso-iec-17025.md)
-- [Certificate Issuance Procedure](../../procedures/assessment-and-certificates/certificate-issuance.md)
-- [Cybersecurity Act Regulation](../../law/eu/horizontal/regulation-eu-2019-881.md)
-[^csa-regulation]: European Parliament and Council, Cybersecurity Act, http://data.europa.eu/eli/reg/2019/881/oj
+- [Cybersecurity Act](../../law/eu/horizontal/regulation-eu-2019-881.md)
+- [Implementing Regulation (EU) 2024/482](../../law/eu/horizontal/implementing-regulation-eu-2024-482.md)
+
+[^implementing-regulation-eu-2024-482]: European Commission, Implementing Regulation (EU) 2024/482, http://data.europa.eu/eli/reg_impl/2024/482/oj

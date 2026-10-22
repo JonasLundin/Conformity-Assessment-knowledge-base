@@ -1,9 +1,10 @@
-# EEA EFTA States
+# Eea
 
-Iceland, Liechtenstein and Norway.
+Navigation index for Eea.
 
 ## Concepts
 
-- [Conformity Assessment Structure in Iceland](iceland.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Iceland under the EEA Agreement.
-- [Conformity Assessment Structure in Liechtenstein](liechtenstein.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Liechtenstein under the EEA Agreement.
-- [Conformity Assessment Structure in Norway](norway.md) — Notifying authorities, national accreditation body, and conformity assessment designation in Norway under the EEA Agreement.
+- [Iceland (Ísland)](iceland.md) — Conformity assessment and accreditation infrastructure in Iceland (Ísland).
+- [Liechtenstein](liechtenstein.md) — Conformity assessment and accreditation infrastructure in Liechtenstein.
+- [Norway (Norge)](norway.md) — Conformity assessment and accreditation infrastructure in Norway (Norge).
+

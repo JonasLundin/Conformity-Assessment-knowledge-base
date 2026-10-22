@@ -1,10 +1,11 @@
 # Guidance
 
-Official non-binding guidance.
+Navigation index for Guidance.
 
 ## Sections
 
-- [ENISA](enisa/index.md) — Certification framework guidance and scheme documentation.
-- [European Accreditation](european-accreditation/index.md) — EA mandatory and informative documents.
-- [European Commission](european-commission/index.md) — The Blue Guide 2022, notices, NANDO documentation.
-- [Notified body coordination groups](notified-body-groups/index.md) — Sector coordination-group recommendations and FAQs.
+- [Enisa](enisa/index.md) — Category section for Enisa.
+- [European Accreditation](european-accreditation/index.md) — Category section for European Accreditation.
+- [European Commission](european-commission/index.md) — Category section for European Commission.
+- [Notified Body Groups](notified-body-groups/index.md) — Category section for Notified Body Groups.
+

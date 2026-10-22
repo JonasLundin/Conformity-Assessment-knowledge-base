@@ -17,11 +17,11 @@ generated:
 stale_after: '2027-12-31T00:00:00Z'
 sources:
 - id: regulation-eu-2019-881
-  resource: https://eur-lex.europa.eu/eli/reg/2019/881/oj
+  resource: http://data.europa.eu/eli/reg/2019/881/oj
   title: Regulation (EU) 2019/881 on ENISA and on information and communications technology
     cybersecurity certification (Cybersecurity Act)
   author: European Parliament and Council of the European Union
-  last_modified: '2019-04-17T00:00:00Z'
+  last_modified: '2019-06-07T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
   authority_level: binding
@@ -32,47 +32,15 @@ x-conformity-assessment:
 
 # Summary
 
-**Regulation (EU) 2019/881 (Cybersecurity Act - CSA)** permanently establishes ENISA (European Union Agency for Cybersecurity) and enacts the first Union-wide **European Cybersecurity Certification Framework** for ICT products, services, and processes[^regulation-eu-2019-881].
+Regulation (EU) 2019/881 (Cybersecurity Act) establishes the European cybersecurity certification framework for ICT products, ICT services, and ICT processes[^regulation-eu-2019-881].
 
-The CSA creates voluntary and mandatory European certification schemes that replace fragmented national schemes, ensuring mutual recognition across all EU Member States.
-
-# The Three Cybersecurity Assurance Levels (Article 52)
-
-```
-+-------------------------------------------------------------------+
-|               CSA ASSURANCE LEVELS MATRIX (ARTICLE 52)            |
-+-------------------------------------------------------------------+
-| 1. BASIC                                                          |
-| - Target: Known, basic cyber risks and incidental attacks         |
-| - Evaluation: Review of technical documentation and basic checks  |
-| - Conformity: Conformity self-assessment permitted by default     |
-+-------------------------------------------------------------------+
-| 2. SUBSTANTIAL                                                    |
-| - Target: Known risks and cyber incidents by actors with limited  |
-|   skills and resources                                            |
-| - Evaluation: Verification of security functionality, vulnerability|
-|   search, and penetration testing by accredited CABs              |
-| - Conformity: Mandatory third-party audit by accredited CAB       |
-+-------------------------------------------------------------------+
-| 3. HIGH                                                           |
-| - Target: Preventing state-of-the-art cyberattacks by sophisticated|
-|   actors with significant resources and expertise (e.g. APTs)     |
-| - Evaluation: Rigorous vulnerability analysis, physical attack    |
-|   resistance (AVA_VAN.4/5), and hardware security testing         |
-| - Conformity: Handled only by accredited ITSEFs and issued or     |
-|   prior-authorized by National Cybersecurity Certification Auth.  |
-+-------------------------------------------------------------------+
-```
-
-# Governance Bodies Under the CSA
-
-- **European Cybersecurity Certification Group (ECCG) (Article 62)**: Composed of representatives of national cybersecurity certification authorities; advises the Commission and ensures consistent implementation across Member States.
-- **Stakeholder Cybersecurity Certification Group (SCCG) (Article 22)**: Industry, academic, and consumer representatives providing technical input on candidate certification schemes.
-- **ENISA Rolling Work Programme (Article 47)**: Identifies strategic priority ICT domains requiring European certification schemes (e.g. EUCC, EUCS cloud scheme, EU5G).
+# Core Architecture
+- **Voluntary Baseline (Art 56(2))**: European cybersecurity certification is voluntary unless Union law or national law provides otherwise.
+- **Evaluation Assurance Levels (Art 52)**: Schemes specify evaluation assurance levels: 'basic', 'substantial', or 'high'.
+- **Conformity Self-Assessment (Art 53)**: Self-assessment by the manufacturer is permitted only for assurance level 'basic' and only where explicitly authorized in the specific European scheme. Assurance levels 'substantial' and 'high' require third-party evaluation by a Conformity Assessment Body.
 
 # Related concepts
-- [European Cybersecurity Certification Scheme (EUCC)](../../../schemes/eucc/eucc-scheme.md)
-- [ISO/IEC 17065: Product Certification Bodies](../../../standards/iso-casco/iso-iec-17065.md)
-- [Cyber Resilience Act Interplay](decision-768-2008-ec.md)
+- [EUCC Scheme](../../../schemes/eucc/eucc-scheme.md)
+- [CRA Conformity Assessment](../sectoral/cra-conformity-assessment.md)
 
-[^regulation-eu-2019-881]: European Parliament and Council of the European Union, Regulation (EU) 2019/881 on ENISA and on information and communications technology cybersecurity certification (Cybersecurity Act), https://eur-lex.europa.eu/eli/reg/2019/881/oj
+[^regulation-eu-2019-881]: European Parliament and Council, Regulation (EU) 2019/881, http://data.europa.eu/eli/reg/2019/881/oj

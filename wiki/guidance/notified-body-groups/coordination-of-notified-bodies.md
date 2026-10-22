@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Guidance
 title: Coordination Groups of Notified Bodies (CNB)
 description: Sectoral groups established under EU product legislation ensuring consistent
   application of conformity assessment procedures across notified bodies.

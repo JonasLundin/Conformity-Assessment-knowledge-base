@@ -1,5 +1,5 @@
 ---
-type: Concept
+type: Standard
 title: 'CEN-CENELEC Guide 25: The Concept of Partnership with the European Commission'
 description: European standardisation guide on drafting harmonised standards supporting
   Union harmonisation legislation.

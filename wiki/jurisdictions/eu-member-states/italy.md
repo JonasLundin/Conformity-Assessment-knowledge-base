@@ -1,64 +1,50 @@
 ---
 type: Jurisdiction
-title: Conformity Assessment Structure in Italy
-description: Notifying authorities, national accreditation body, and conformity assessment
-  designation in Italy.
+title: Italy (Italia)
+description: Conformity assessment, accreditation (L'Ente Italiano di Accreditamento
+  (ACCREDIA)) and notification infrastructure in Italy (Italia).
 category: jurisdiction
 tags:
+- conformity-assessment
 - jurisdiction
-- eu-member-state
 - italy
-- accreditation
-- notification
 status: draft
 generated:
-  by: agent:antigravity
+  by: manual-curation
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
 - id: regulation-ec-765-2008
-  resource: https://eur-lex.europa.eu/eli/reg/2008/765/oj
+  resource: http://data.europa.eu/eli/reg/2008/765/oj
   title: Regulation (EC) No 765/2008 setting out the requirements for accreditation
-    and market surveillance
+    and market surveillance relating to the marketing of products
   author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
-- id: decision-768-2008-ec
-  resource: https://eur-lex.europa.eu/eli/dec/2008/768/oj
-  title: Decision No 768/2008/EC on a common framework for the marketing of products
-  author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
-- id: regulation-eu-2019-1020
-  resource: http://data.europa.eu/eli/reg/2019/1020/oj
-  title: Regulation (EU) 2019/1020 on market surveillance and compliance of products
-  author: European Parliament and Council of the European Union
-  last_modified: '2019-06-20T00:00:00Z'
+  last_modified: '2008-08-13T00:00:00Z'
+- id: nando-information-system
+  resource: https://ec.europa.eu/growth/tools-databases/nando/
+  title: NANDO (New Approach Notified and Designated Organisations) Information System
+  author: European Commission
+  last_modified: '2026-01-01T00:00:00Z'
 x-conformity-assessment:
-  jurisdiction: EU
-  authority_level: guidance
-  instrument_status: in_force
-  provision: 'Member State: Italy'
+  jurisdiction: IT
+  authority_level: binding
   checked_at: '2026-09-27T00:00:00Z'
 ---
 
 # Summary
 
-National conformity assessment, accreditation, and notifying authority structure in **Italy** under Regulation (EC) No 765/2008[^regulation-ec-765-2008] and Decision No 768/2008/EC[^decision-768-2008-ec].
+In **Italy (Italia)**, conformity assessment is governed by Regulation (EC) No 765/2008 and national transposing legislation[^regulation-ec-765-2008].
 
-# National Authorities
-
-## Notifying Authority
-Responsible for setting up and carrying out the necessary procedures for the assessment and notification of conformity assessment bodies under EU product harmonisation legislation.
-
-## National Accreditation Body (NAB)
-Designated pursuant to Article 4 of Regulation (EC) No 765/2008 as the sole national accreditation body providing accreditation to conformity assessment bodies (testing laboratories, inspection bodies, product certification bodies).
-
-## Market Surveillance Authority
-Coordinates market surveillance and product compliance activities in accordance with Regulation (EU) 2019/1020[^regulation-eu-2019-1020].
+# National Accreditation and Notification Architecture
+- **National Accreditation Body (NAB)**: **L'Ente Italiano di Accreditamento (ACCREDIA)** operates as the sole national accreditation body under Article 4(1) of Regulation (EC) No 765/2008.
+- **Notifying Authority**: **Ministero delle Imprese e del Made in Italy (MIMIT) / ACN** is responsible for setting up and carrying out the necessary procedures for the assessment and notification of conformity assessment bodies.
+- **Notified Bodies Register**: Bodies designated by Italy (Italia) are registered on the European Commission's [NANDO Database](https://ec.europa.eu/growth/tools-databases/nando/)[^nando-information-system].
+- **National Context**: Single national accreditation body appointed under Law 99/2009.
 
 # Related concepts
-- [EU Member States Index](index.md)
-- [Regulation (EC) No 765/2008](../../law/eu/horizontal/regulation-ec-765-2008.md)
+- [Jurisdictions Index](../index.md)
+- [Accreditation Process](../../procedures/accreditation/accreditation-process.md)
+- [Notification Procedure](../../procedures/notification-and-designation/notification-procedure.md)
 
-[^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj
-[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
-[^regulation-eu-2019-1020]: European Parliament and Council of the European Union, Regulation (EU) 2019/1020 on market surveillance and compliance of products, http://data.europa.eu/eli/reg/2019/1020/oj
+[^regulation-ec-765-2008]: European Parliament and Council, Regulation (EC) No 765/2008, http://data.europa.eu/eli/reg/2008/765/oj
+[^nando-information-system]: European Commission, NANDO Information System, https://ec.europa.eu/growth/tools-databases/nando/

@@ -1,30 +1,30 @@
 version: 1
 release: 0.1.0
 baseline: '2026-09-27'
-coverage_status: complete
+coverage_status: partial
 review_status: unverified
-total_concepts: 90
+total_concepts: 105
 by_category:
-  role: 10
   glossary: 6
-  module: 16
-  timeline: 3
-  standard: 6
-  jurisdiction: 30
-  law: 5
   guidance: 4
+  jurisdiction: 30
+  law: 11
+  module: 16
+  procedure: 11
+  role: 11
   scheme: 3
-  procedure: 7
+  standard: 10
+  timeline: 3
 by_type:
   Glossary: 6
-  Guidance: 1
+  Guidance: 4
   Jurisdiction: 30
-  Law: 4
+  Law: 11
   Module: 16
-  Procedure: 6
-  Role: 10
+  Procedure: 11
+  Role: 11
   Scheme: 3
-  Standard: 5
+  Standard: 10
   Timeline: 3
 gates:
   modules:

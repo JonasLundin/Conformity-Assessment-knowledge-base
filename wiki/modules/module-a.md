@@ -1,81 +1,48 @@
 ---
 type: Module
 title: 'Module A: Internal Production Control'
-description: Conformity assessment procedure whereby the manufacturer ensures and
-  declares compliance without notified body intervention.
+description: 'Decision 768/2008/EC Annex II Module A: manufacturer internal conformity
+  procedure without third-party intervention.'
 category: module
 tags:
-- nlf
+- conformity-assessment
+- decision-768-2008-ec
 - module
 - module-a
-- decision-768-2008-ec
 status: draft
 generated:
-  by: agent:antigravity
+  by: manual-curation
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
 - id: decision-768-2008-ec
-  resource: https://eur-lex.europa.eu/eli/dec/2008/768/oj
+  resource: http://data.europa.eu/eli/dec/2008/768/oj
   title: Decision No 768/2008/EC on a common framework for the marketing of products
   author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
-- id: blue-guide-2022
-  resource: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
-  title: "Commission Notice \u2014 The 'Blue Guide' on the implementation of EU product\
-    \ rules 2022"
-  author: European Commission
-  last_modified: '2022-06-29T00:00:00Z'
+  last_modified: '2008-08-13T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
   authority_level: binding
-  instrument_status: in_force
-  provision: Annex II, Module A
   checked_at: '2026-09-27T00:00:00Z'
+  provision: Annex II Module A
 ---
 
 # Summary
 
-**Module A (Internal Production Control)** is the baseline self-assessment conformity assessment procedure established under Annex II of Decision No 768/2008/EC[^decision-768-2008-ec] and detailed in the European Commission's Blue Guide[^blue-guide-2022].
+**Module A (Internal production control)** is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2, 3 and 4 of Decision No 768/2008/EC Annex II Module A, and ensures and declares on its sole responsibility that the products concerned satisfy the requirements of the legislative instrument that apply to them[^decision-768-2008-ec].
 
-Under Module A, the manufacturer independently verifies, ensures, and declares that the products concerned satisfy the essential requirements of the applicable Union harmonization legislation, assuming sole legal responsibility without third-party notified body involvement.
+# Normative Structure (Decision 768/2008/EC Annex II Module A)
+1. **Technical Documentation (Point 2)**: The manufacturer must establish technical documentation making it possible to assess the product's conformity to the relevant requirements, including an adequate analysis and assessment of the risk(s).
+2. **Manufacturing (Point 3)**: The manufacturer must take all measures necessary so that the manufacturing process and its monitoring ensure compliance of the manufactured products with the technical documentation and with legislative requirements.
+3. **CE Marking and Declaration of Conformity (Point 4)**: The manufacturer must affix the CE marking to each individual product and draw up a written EU declaration of conformity for a product model.
 
-# Procedural Architecture & Workflow
-
-```
-+-------------------------------------------------------------+
-| 1. Technical Documentation (Annex II Module A Point 2)      |
-| - General description, conceptual design, component BOM     |
-| - Applied harmonised standards or alternative solutions     |
-| - Cybersecurity risk assessment & vulnerability records     |
-+-------------------------------------------------------------+
-                               |
-                               v
-+-------------------------------------------------------------+
-| 2. Manufacturing Control (Point 3)                          |
-| - Ensure manufacturing process & monitoring maintain        |
-|   compliance of every manufactured unit with technical docs |
-+-------------------------------------------------------------+
-                               |
-                               v
-+-------------------------------------------------------------+
-| 3. CE Marking & EU Declaration of Conformity (Point 4)      |
-| - Affix CE marking to each individual product or packaging  |
-| - Draw up written EU Declaration of Conformity              |
-| - Keep docs available for market surveillance for 10 years  |
-+-------------------------------------------------------------+
-```
-
-# Applicability & Restrictions across EU Cyber Law
-
-- **Cyber Resilience Act (CRA)**: Permitted strictly for **Default Products** with digital elements (Article 32(1)). Prohibited for Important Class I, Important Class II, and Critical products.
-- **AI Act (Regulation (EU) 2024/1689)**: Prescribed under Article 43(1) as the default conformity route for high-risk AI systems listed in Annex III, provided harmonized standards or common specifications exist.
-- **Radio Equipment Directive (RED 2014/53/EU)**: Permitted when the manufacturer has fully applied harmonized standards covering Article 3(1) and 3(2).
+# Sectoral Applicability
+- **Cyber Resilience Act (CRA)**: Under Article 32(1), Module A is the baseline route for standard products with digital elements. For Class I important products, Module A may be applied under Article 32(2) only where harmonised standards, common specifications, or certified schemes have been applied in full.
+- **AI Act**: Under Article 43(2), internal control (based on Annex VI) is the general default procedure for Annex III high-risk AI systems (points 2 to 8).
 
 # Related concepts
 - [Modules Index](index.md)
-- [Module A1: Internal Production Control plus Supervised Testing](module-a1.md)
-- [Module B: EU-Type Examination](module-b.md)
-- [Decision 768/2008/EC](../law/eu/horizontal/decision-768-2008-ec.md)
-[^decision-768-2008-ec]: European Parliament and Council, Decision No 768/2008/EC, https://eur-lex.europa.eu/eli/dec/2008/768/oj
-[^blue-guide-2022]: European Commission, Blue Guide 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
+- [Module A1](module-a1.md)
+- [Module A2](module-a2.md)
+
+[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, http://data.europa.eu/eli/dec/2008/768/oj

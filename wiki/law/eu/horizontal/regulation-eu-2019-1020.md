@@ -18,12 +18,7 @@ sources:
   resource: http://data.europa.eu/eli/reg/2019/1020/oj
   title: Regulation (EU) 2019/1020 on market surveillance and compliance of products
   author: European Parliament and Council of the European Union
-  last_modified: '2019-06-20T00:00:00Z'
-- id: decision-768-2008-ec
-  resource: https://eur-lex.europa.eu/eli/dec/2008/768/oj
-  title: Decision No 768/2008/EC on a common framework for the marketing of products
-  author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
+  last_modified: '2019-06-25T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
   authority_level: binding
@@ -34,15 +29,15 @@ x-conformity-assessment:
 
 # Summary
 
-**Regulation (EU) 2019/1020** forms a cornerstone of European product legislation and conformity assessment[^decision-768-2008-ec].
+Regulation (EU) 2019/1020 strengthens market surveillance and enforcement for non-food products subject to Union harmonisation legislation[^regulation-eu-2019-1020].
 
-Modernised market surveillance framework strengthening compliance of products entering the internal market.
-
-# Legal Architecture
-Horizontal instrument establishing standard reference provisions for EU single market legislation.
+# Application and Dates
+- **General Application Date**: Applies from **16 July 2021**.
+- **Specific Provisions**: Articles 29, 30, 31, 32, 33 and 36 (Union Product Compliance Network and cooperation) applied from **1 January 2021**.
+- **Economic Operator Requirement (Art 4)**: Products subject to listed harmonisation legislation may only be placed on the market if there is an economic operator established in the Union responsible for regulatory tasks.
 
 # Related concepts
-- [Law Index](index.md)
+- [Horizontal Law Index](index.md)
+- [Market Surveillance Authorities](../../../roles/market-surveillance-authority.md)
 
-[^regulation-eu-2019-1020]: European Parliament and Council of the European Union, Regulation (EU) 2019/1020 on market surveillance and compliance of products, http://data.europa.eu/eli/reg/2019/1020/oj
-[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
+[^regulation-eu-2019-1020]: European Parliament and Council, Regulation (EU) 2019/1020, http://data.europa.eu/eli/reg/2019/1020/oj

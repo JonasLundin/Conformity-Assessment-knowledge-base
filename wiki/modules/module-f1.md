@@ -1,63 +1,38 @@
 ---
 type: Module
-title: 'Module F1: Conformity Based on Product Verification'
-description: 'Standalone module: notified body carries out examinations and tests
-  to verify conformity of products with legislative requirements.'
+title: 'Module F1: Conformity based on Product Verification'
+description: 'Decision 768/2008/EC Annex II Module F1: product verification directly
+  against technical documentation without prior Module B.'
 category: module
 tags:
-- nlf
+- conformity-assessment
+- decision-768-2008-ec
 - module
 - module-f1
-- decision-768-2008-ec
 status: draft
 generated:
-  by: agent:antigravity
+  by: manual-curation
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
 - id: decision-768-2008-ec
-  resource: https://eur-lex.europa.eu/eli/dec/2008/768/oj
+  resource: http://data.europa.eu/eli/dec/2008/768/oj
   title: Decision No 768/2008/EC on a common framework for the marketing of products
   author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
-- id: blue-guide-2022
-  resource: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
-  title: "Commission Notice \u2014 The 'Blue Guide' on the implementation of EU product\
-    \ rules 2022"
-  author: European Commission
-  last_modified: '2022-06-29T00:00:00Z'
+  last_modified: '2008-08-13T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
   authority_level: binding
-  instrument_status: in_force
-  provision: Annex II, Module F1
   checked_at: '2026-09-27T00:00:00Z'
+  provision: Annex II Module F1
 ---
 
 # Summary
 
-**Module F1: Conformity Based on Product Verification** under Annex II of Decision No 768/2008/EC[^decision-768-2008-ec].
-
-Standalone module: notified body carries out examinations and tests to verify conformity of products with legislative requirements.
-
-# Structure and Obligations
-
-Conformity based on product verification without prior type examination: notified body examines technical documentation and tests products to verify conformity directly with legislative requirements.
-
-### Manufacturer obligations
-- Draw up technical documentation.
-- Ensure manufacturing process maintains conformity.
-- Affix CE marking and draw up EU declaration of conformity.
-
-### Notified body role
-- Independent third-party assessment where specified by the module.
-
-# Sector Usage
-Used across New Legislative Framework directives and regulations, including CRA Regulation (EU) 2024/2847, AI Act Regulation (EU) 2024/1689, Machinery Regulation (EU) 2023/1230, and RED Directive 2014/53/EU.
+**Module F1 (Conformity based on product verification)** enables product verification by a notified body directly against technical documentation without prior Module B examination[^decision-768-2008-ec].
 
 # Related concepts
-- [Modules Index](index.md)
-- [Decision 768/2008/EC](../law/eu/horizontal/decision-768-2008-ec.md)
+- [Module F](module-f.md)
+- [Module G](module-g.md)
 
-[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
-[^blue-guide-2022]: European Commission, Commission Notice — The 'Blue Guide' on the implementation of EU product rules 2022, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.C_.2022.247.01.0001.01.ENG
+[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, http://data.europa.eu/eli/dec/2008/768/oj

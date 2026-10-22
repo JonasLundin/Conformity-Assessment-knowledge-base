@@ -14,34 +14,28 @@ generated:
   at: '2026-09-27T00:00:00Z'
 stale_after: '2027-12-31T00:00:00Z'
 sources:
-- id: regulation-ec-765-2008
-  resource: https://eur-lex.europa.eu/eli/reg/2008/765/oj
-  title: Regulation (EC) No 765/2008 setting out the requirements for accreditation
-    and market surveillance
-  author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
 - id: decision-768-2008-ec
-  resource: https://eur-lex.europa.eu/eli/dec/2008/768/oj
+  resource: http://data.europa.eu/eli/dec/2008/768/oj
   title: Decision No 768/2008/EC on a common framework for the marketing of products
   author: European Parliament and Council of the European Union
-  last_modified: '2008-07-09T00:00:00Z'
+  last_modified: '2008-08-13T00:00:00Z'
 x-conformity-assessment:
   jurisdiction: EU
-  authority_level: guidance
+  authority_level: binding
   instrument_status: in_force
-  provision: Regulation (EC) 765/2008
+  provision: Regulation (EU) No 1025/2012
   checked_at: '2026-09-27T00:00:00Z'
 ---
 
-# Definition
+# Summary
 
-**Presumption of Conformity**: Legal presumption that products manufactured in conformity with harmonised standards satisfy essential legal requirements.[^regulation-ec-765-2008]
+A legal presumption that a product conforms with essential health and safety requirements when manufactured in conformity with harmonised standards published in the OJEU under Regulation (EU) No 1025/2012 and Decision No 768/2008/EC Annex I Article R8.[^decision-768-2008-ec]
 
-# Legal Context
-Defined in Article 2 of Regulation (EC) No 765/2008 and horizontal provisions of Decision No 768/2008/EC.
+# Statutory Framework
+This term is defined and regulated across New Legislative Framework instruments, setting mandatory baseline duties for economic operators and supervisory authorities.
 
 # Related concepts
 - [Glossary Index](index.md)
+- [Decision No 768/2008/EC](../law/eu/horizontal/decision-768-2008-ec.md)
 
-[^regulation-ec-765-2008]: European Parliament and Council of the European Union, Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance, https://eur-lex.europa.eu/eli/reg/2008/765/oj
-[^decision-768-2008-ec]: European Parliament and Council of the European Union, Decision No 768/2008/EC on a common framework for the marketing of products, https://eur-lex.europa.eu/eli/dec/2008/768/oj
+[^decision-768-2008-ec]: European Parliament and Council, Decision No 768/2008/EC, http://data.europa.eu/eli/dec/2008/768/oj
